@@ -1,0 +1,38 @@
+Czech Teachers in Regional Education (2010–2024)
+
+This repository contains the code, data, and web assets for the "Teachers in Regional Education" project, a longitudinal analysis of teacher demographics, salaries, and qualifications in the Czech Republic.
+
+The project includes:
+
+Automated data collection assets (JSON sitemaps and scraping configurations)
+
+The interactive web report (HTML, CSS, JavaScript)
+
+The analytics dashboard and visualisation suite (Tableau .twbx)
+
+Associated technical documentation and data diaries
+
+
+All of these components are covered by the MIT License below.
+
+MIT License
+
+Copyright (c) 2026 Ondrej Hoberla
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

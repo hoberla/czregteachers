@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- SEO and Crawler Metadata -->
+    <meta name="description" content="A professional longitudinal analysis of teacher salaries, gender pay gaps, and qualifications in the Czech Republic (2010–2024)." />
+    <meta name="keywords" content="Czech Education Data, Teacher Salary Analysis, Gender Pay Gap Czechia, Data Analytics Portfolio, Tableau Dashboard" />
+    <meta name="author" content="Ondrej Hoberla" />
+    <!-- Search engine instructions -->
+    <meta name="robots" content="noindex, nofollow" />
+    
+    <title>Czech Teachers in Regional Education (2010–2024)</title>
+
+    <!-- External Libraries -->
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"
+    />
+    
+    <!-- Custom Project Styles -->
+    <link rel="stylesheet" href="custom-styles.css" />
+  </head>
+
+  <body>
+    <div class="container-fluid main-container">
+      <!-- Top Menu -->
+      <nav class="navigation-ribbon">
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="https://link.hoberla.eu/portfolio" target="_blank">Portfolio</a></li>
+          <li><a href="https://link.hoberla.eu/czteacher-vis" target="_blank">Dashboard</a></li>
+          <li><a href="https://github.com/hoberla/czregteachers/tree/main/data" target="_blank">Data</a></li>
+        </ul>
+      </nav>
+
+      <header>
+        <h1 class="title">Czech Teachers in Regional Education (2010–2024)</h1>
+      </header>
+
+      <main class="tabs-container">
+        <!-- Main Navigation -->
+        <ul class="nav nav-tabs" id="main-nav">
+          <li class="active"><a href="#tab-intro" data-toggle="tab">Introduction</a></li>
+          <li><a href="#tab-data" data-toggle="tab">Data</a></li>
+          <li><a href="#tab-viz" data-toggle="tab">Visualisation</a></li>
+          <li><a href="#tab-discussion" data-toggle="tab">Discussion</a></li>
+          <li><a href="#tab-sources" data-toggle="tab">Sources</a></li>
+        </ul>
+
+        <div class="tab-content">
+          
+          <!-- INTRODUCTION -->
+          <div id="tab-intro" class="tab-pane active">
+            
+            <!-- Updated Executive Summary -->
+            <section class="executive-summary">
+                <h3>Executive Summary</h3>
+                <p>This project investigates the evolution of the teaching profession in the Czech Republic through three core lenses: regional disparities, gender demographics (including the pay gap), and professional qualification levels. Spanning 2010 to 2024, the study seeks to determine how these variables fluctuate across regions and school types over time.</p>
+                
+                <p>The study was built by synthesizing fragmented data from the Ministry of Education (MŠMT) and the Czech Statistical Office (ČSÚ). Because official platforms often limit large-scale longitudinal exports, I developed custom <strong>JSON sitemaps</strong> to automate data extraction via <strong>web scraping</strong>. The resulting datasets were cleaned and unified using <strong>Power Query (M Language)</strong> to resolve significant methodological shifts occurring in 2011 and 2016. The final output is an interactive <strong>Tableau</strong> analytics suite designed with <strong>Color Universal Design (CUD)</strong> principles to ensure the findings remain accessible and statistically transparent.</p>
+                
+                <img src="./output/vis_ss.png" alt="Map Preview of Regional Teacher Salaries" class="img-responsive dashboard-ss" />
+                
+                <div style="margin: 25px 0; text-align: center;">
+                    <a href="https://link.hoberla.eu/czteacher-vis" target="_blank" class="btn btn-primary btn-lg">View Online Dashboard</a>
+                </div>
+            </section>
+
+            <hr />
+
+            <h3>Project Origins</h3>
+            <p>This project stemmed from my interest in the Czech education system from the teachers' perspective. I aimed to investigate disparities such as teacher gender ratios, regional variations, differences in remuneration (Pay Gap), the age structure of the teaching population, and teaching workloads—all tracked longitudinally. The project was conceived as an exploratory analysis to determine the effectiveness of various visualisation methods and the actual informative value of the methodologies and data used. My goal was to provide users with the autonomy to explore these phenomena through an objective, data-driven lens.</p>
+            
+            <h3>Exploration</h3>
+            <p>The exploration phase involved a detailed review of online resources and various educational data sources. I found that the Czech Statistical Office (ČSÚ) regularly publishes yearbooks and reports which, while useful and visually engaging, primarily focus on schools as institutions rather than on teachers themselves. Furthermore, these data are often limited to short timeframes. Similarly, the Ministry of Education, Youth and Sports (MŠMT) published regional yearbooks until 2010 containing valuable data—such as student-to-teacher ratios or population age structures—but this series was discontinued.</p>
+            <p>The most suitable sources proved to be the periodic data published on the MŠMT website concerning gender issues <a href="#ref-msmt-data" class="ref-link">(Ministry of Education, Youth and Sports, n.d.)</a>, which combine regional contract counts (FTE), gender distribution, and average salaries. These data are categorised by region and school type. To complement this, I integrated data from the ČSÚ interactive application <a href="#ref-csu-data" class="ref-link">(Czech Statistical Office, n.d.)</a>, which offers regional contract counts broken down by school type, gender, and professional qualification.</p>
+          </div>
+
+          <!-- DATA -->
+          <div id="tab-data" class="tab-pane">
+            <ul class="nav nav-tabs" id="sub-nav-data">
+              <li class="active"><a href="#data-char" data-toggle="tab">Characterisation and Processing</a></li>
+              <li><a href="#data-analysis" data-toggle="tab">Analysis of Categories and Variables</a></li>
+            </ul>
+            <div class="tab-content">
+              <div id="data-char" class="tab-pane active">
+                <h3>MŠMT <a href="https://github.com/hoberla/czregteachers/tree/main/data/msmt" target="_blank">(data)</a></h3>
+                <p>For this project, I relied on two primary pillars. The first consists of MŠMT data regarding gender demographics of employees from 2010 to the first half of 2025. This dataset includes gender ratios, average salaries (total and by gender), and pay gaps. The main challenge lay in the variability of the data and table structures across files (.xls, .xlsx), evolving methodologies, and inconsistent regional/NUTS nomenclature. Initially, I attempted to write an automated script for processing using Power Query (M Language) with AI assistance; however, this proved inefficient due to the table inconsistencies. I ultimately opted for <a href="https://github.com/hoberla/czregteachers/blob/main/data/msmt/msmt_teacher_gender_aspects_2010_2025.csv" target="_blank">manual data processing</a> through meticulous copying and validation to ensure accuracy, mitigating the risk of human error through cross-checks. Data for the first half of 2025 were excluded to avoid skewing the 2024 annual statistics when combined with the secondary dataset.</p>
+                <p>The resulting dataset provides information on teachers and management staff across regions, including the percentage of men, average total salary, and the salary breakdown and gap for men and women. For further investigation, I selected four school categories: Nursery (MŠ), Basic (ZŠ), Upper-Secondary (SŠ), and "All Schools" for a comprehensive overview.</p>
+                
+                <h4 id="table-1">Table 1: Key Variables in MŠMT Datasets</h4>
+                <table class="table table-condensed table-hover">
+                  <thead><tr><th>Variable</th><th>Description</th></tr></thead>
+                  <tbody>
+                    <tr><td>year</td><td>Status as of the end of the calendar year.</td></tr>
+                    <tr><td>School_cluster_code</td><td>School distribution according to reported clusters.</td></tr>
+                    <tr><td>School_type</td><td>Type of school assigned.</td></tr>
+                    <tr><td>cznuts_cz</td><td>Name of the administrative unit (NUTS-3 level).</td></tr>
+                    <tr><td>NUTS</td><td>International territorial unit code for statistical purposes.</td></tr>
+                    <tr><td>men_percent</td><td>Percentage of men out of the total FTE contracts.</td></tr>
+                    <tr><td>salary_total, men, women</td><td>Gross monthly teacher salary (total, female, male).</td></tr>
+                    <tr><td>salary_proportion_m_w</td><td>Relative salary of women compared to men (%).</td></tr>
+                    <tr><td>paygap_w_m</td><td>Absolute regional difference in remuneration (Pay Gap) in CZK.</td></tr>
+                  </tbody>
+                </table>
+
+                <h3>ČSÚ <a href="https://github.com/hoberla/czregteachers/tree/main/data/czso" target="_blank">(data)</a></h3>
+                <p>The second pillar involves ČSÚ data on teachers in regional education converted to Full-Time Equivalents (FTE) for the period 2006–2025. Since the ČSÚ interactive application does not facilitate the simultaneous viewing of all regions and years, I utilised web scraping via the Webscraper.io plugin. Given the complex site structure, I created a <a href="https://github.com/hoberla/czregteachers/blob/main/data/czso/czso_VZD16b_year_region_scrape_json_final.json" target="_blank">JSON sitemap</a> with AI assistance. As the website modifies the URL to update data views, I extracted internal codes for regions and years and generated all <a href="https://github.com/hoberla/czregteachers/blob/main/data/czso/czso_VZD16b_year_region_scrape_links.csv" target="_blank">scraping link combinations</a> in Excel. Data integrity was subsequently verified through random spot-checks of the scraper results against the original ČSÚ web application.</p>
+                
+                <h4 id="table-2">Table 2: Key Variables in ČSÚ Datasets</h4>
+                <table class="table table-condensed table-hover">
+                  <thead><tr><th>Variable</th><th>Description</th></tr></thead>
+                  <tbody>
+                    <tr><td>year</td><td>Observed calendar year (2010–2024).</td></tr>
+                    <tr><td>NUTS</td><td>Common code used to join with MŠMT data.</td></tr>
+                    <tr><td>total_teachers (& men, women)</td><td>Total number of teachers in Full-Time Equivalents (FTE).</td></tr>
+                    <tr><td>qualified, unqualified</td><td>Number of FTE contracts meeting or failing professional teaching qualifications.</td></tr>
+                  </tbody>
+                </table>
+                <p>Both final datasets were joined in Excel using Power Query via an inner join, resulting in a final longitudinal dataset spanning 2010–2024.</p>
+              </div>
+
+              <div id="data-analysis" class="tab-pane">
+                <h3>Analysis of Categories and Variables <a href="https://github.com/hoberla/czregteachers/blob/main/data/merge_pub.csv" target="_blank">(dataset)</a></h3>
+                <p>In pre-primary education, nursery (MŠ) teachers were recorded separately until 2016; since then, they have been grouped with preparatory class teachers. Within MŠMT data, these figures are regionally aggregated (by salary and gender), whereas in ČSÚ FTE data, they are not. Basic schools (ZŠ) in ČSÚ FTE data integrate both standard teachers and those involved in educating students with Special Educational Needs (SEN/SVP); however, for salary and gender data until 2016, these were recorded separately. Since 2016, they have been merged.</p>
+                <p>Upper-secondary education (SŠ) is also an inconsistent category; until 2016, it included all secondary schools, Higher Professional Schools (VOŠ), and conservatoires. Since 2016, it only includes SŠ and conservatoires.</p>
+                
+                <h4 id="table-3">Table 3: School Cluster Variable Description</h4>
+                <table class="table table-condensed table-hover">
+                  <thead><tr><th>Variable Value</th><th>Cluster Description</th></tr></thead>
+                  <tbody>
+                    <tr><td>ALL</td><td>The entire regional education system in Czechia</td></tr>
+                    <tr><td>MS</td><td>Nursery (MŠ) teachers only</td></tr>
+                    <tr><td>PV_MS_PT</td><td>Nursery (MŠ) and Preparatory class teachers</td></tr>
+                    <tr><td>SS_K</td><td>Secondary (SŠ) and Conservatoire teachers (from 2016)</td></tr>
+                    <tr><td>SS_VOS_K</td><td>Secondary (SŠ), VOŠ, and Conservatoire teachers (until 2016)</td></tr>
+                    <tr><td>ZS_SEN_1</td><td>Basic (ZŠ) and SEN teachers (until 2016)</td></tr>
+                    <tr><td>ZS_SEN_2</td><td>Basic (ZŠ) and SEN teachers (from 2016)</td></tr>
+                  </tbody>
+                </table>
+                <p>Management staff significant methodological change in 2011 (transitioning from "Principals/Deputies" to a broader "Management Staff" category) prevented continuous longitudinal comparison, leading to the exclusion of this category from the final analysis.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- VISUALISATION -->
+          <div id="tab-viz" class="tab-pane">
+            <ul class="nav nav-tabs" id="sub-nav-viz">
+              <li class="active"><a href="#viz-strat" data-toggle="tab">Strategy</a></li>
+              <li><a href="#viz-int" data-toggle="tab">Interface</a></li>
+              <li><a href="#viz-acc" data-toggle="tab">Accessibility</a></li>
+            </ul>
+            <div class="tab-content">
+              <div id="viz-strat" class="tab-pane active">
+                <p>I selected Tableau Public for the development of this interactive dashboard to expand my visualisation portfolio and leverage the robust analytical tools offered by the platform. For the visual representation of regional data, I chose the choropleth map as the central element. This provides the user with an immediate spatial context and allows for effective mapping of regional differences through colour gradation.</p>
+                <p>The choice of a choropleth map offers several advantages, primarily high cognitive efficiency for specific tasks. The human brain interprets spatial patterns and colour intensity much faster than rows of numbers, especially when performing rough regional comparisons <a href="#ref-nusrat" class="ref-link">(e.g., Nusrat et al., 2016)</a>.</p>
+              </div>
+              <div id="viz-int" class="tab-pane">
+                <h3>Visualisation Dashboard</h3>
+                <img src="./output/vis_ss.png" alt="Dashboard Interface" class="img-responsive dashboard-ss">
+                
+                <p>The visualisation consists of a dashboard dominated by a choropleth map of the Czech Republic. The colour scheme represents the intensity of the observed phenomenon in each region. In the top-right corner, a control panel with filters and parameters allows users to manipulate the map content. In the bottom-left corner, an information card provides National Data for benchmarking. By hovering over specific regions, users can access detailed regional statistics (Table 4).</p>
+                
+                <div class="action-buttons">
+                  <a href="https://link.hoberla.eu/czteacher-vis" target="_blank" class="btn btn-primary">View Online Dashboard</a>
+                  <a href="https://github.com/hoberla/czregteachers/blob/main/output/vis_final_blue.twbx" class="btn btn-info">Download Visualisation (.twbx)</a>
+                </div>
+
+                <h4 id="table-4">Table 4: Visualisation Elements</h4>
+                <table class="table table-condensed table-hover">
+                  <thead><tr><th>Element</th><th>Form</th><th>Function</th></tr></thead>
+                  <tbody>
+                    <tr><td>Map Controls</td><td>Parameter</td><td>Metric selection: Salaries, Pay Gap, Qualifications, Gender ratio.</td></tr>
+                    <tr><td>Year</td><td>Filter</td><td>Slider for longitudinal analysis (2010–2024).</td></tr>
+                    <tr><td>School Type</td><td>Filter</td><td>Selection: All Schools, Basic, Nursery, Upper-Secondary.</td></tr>
+                    <tr><td>Map Logic</td><td>Legend</td><td>Colour scale explaining the values corresponding to map shades.</td></tr>
+                    <tr><td>Czech Republic</td><td>Card</td><td>National Data; displays aggregated Czech Republic data.</td></tr>
+                  </tbody>
+                </table>
+              </div>
+              <div id="viz-acc" class="tab-pane">
+                <h3>Accessibility and Inclusive Design</h3>
+                <p>I evaluated and optimised the accessibility of the visual artifact to ensure clarity for a wide spectrum of users, including those with visual impairments. Specific steps included implementing the sans-serif font Tableau Book at a minimum size of 12pt for high legibility and applying Colour Universal Design (CUD) principles as recommended by <a href="#ref-okabe" class="ref-link">Okabe and Ito (2008)</a>. This involved increasing contrast, removing extraneous colours, highlighting boundary lines, and adopting a blue colour palette visible to users with various types of colour vision deficiency. I validated these choices using the <a href="#ref-vischeck" class="ref-link">Vischeck (n.d.)</a> simulator, which confirmed that the selected palette and contrast successfully convey the primary information.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- DISCUSSION -->
+          <div id="tab-discussion" class="tab-pane">
+            <ul class="nav nav-tabs" id="sub-nav-disc">
+              <li class="active"><a href="#disc-data" data-toggle="tab">Data</a></li>
+              <li><a href="#disc-viz" data-toggle="tab">Visualisation</a></li>
+              <li><a href="#disc-future" data-toggle="tab">Future Development</a></li>
+              <li><a href="#disc-conc" data-toggle="tab">Conclusion</a></li>
+            </ul>
+            <div class="tab-content">
+              <div id="disc-data" class="tab-pane active">
+                <p>The datasets used are primarily suitable for obtaining a high-level overview of the education system, as dynamic changes in reporting methodology affect almost all observed variables. Furthermore, the resulting picture is incomplete; it focuses exclusively on teachers receiving a state salary, thereby omitting the private sector. Additionally, the conversion to Full-Time Equivalents (FTE) provides a different type of information than headcounts; for users interested in the actual number of individuals and who misinterpret the statistics, this can lead to a false impression of the size of the teaching force.</p>
+                <p>Another limitation is the lack of regional granularity for certain key indicators. While average salary includes all components from base pay to bonuses, more detailed breakdowns by education level, salary grade, or specific age groups are not publicly available at the regional level.</p>
+              </div>
+              <div id="disc-viz" class="tab-pane">
+                <p>In evaluating the visualisation, one must consider several critical limitations and risks of cognitive bias, as discussed by <a href="#ref-valdez" class="ref-link">Valdez et al. (2017)</a>. The first major risk is the <strong>Ecological Fallacy</strong>. In this flawed inference, we project relationships observed at an aggregate level onto individuals, even though the relationship may not hold true for them. Another significant factor is the <strong>Anchoring Effect</strong>, a bias where a previous stimulus serves as a "mental anchor" for subsequent estimates or decisions.</p>
+                <p>Visual interpretation of a choropleth map is also influenced by <strong>Area Bias</strong>. Users tend to attribute greater importance to larger geographic areas, potentially overestimating the significance of differences in large regions compared to small ones, even though the data is encoded only by colour.</p>
+              </div>
+              <div id="disc-future" class="tab-pane">
+                <p>The current project serves as a functional foundation with significant potential for expansion. A logical next step would be the inclusion of previously excluded groups, particularly school management and specific types of institutions (e.g., language schools or conservatoires). Incorporating additional demographic variables, such as age distribution or salary grades, would also be highly beneficial in highlighting systemic issues like the aging of the teaching force <a href="#ref-msmt-2025" class="ref-link">(Ministry of Education, Youth and Sports, 2025)</a>.</p>
+              </div>
+              <div id="disc-conc" class="tab-pane">
+                <p>This project has highlighted the vast potential for data analysis of the teaching profession within regional education, while simultaneously exposing the limits of public data reporting and joinability. Although I successfully created a 14-year longitudinal overview, methodological shifts and the inaccessibility of granular data limit the depth of analysis. Data deserve more user-friendly presentation and simplified open interfaces.</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- SOURCES -->
+          <div id="tab-sources" class="tab-pane">
+            <h3>Data</h3>
+            <div class="source-item" id="ref-csu-data">
+              Czech Statistical Office. (n.d.). <i>Teachers in regional education by school type</i>. <a href="https://vdb.czso.cz/vdbvo2/faces/cs/index.jsf?page=vystup-objekt&pvo=VZD16a&z=T&f=TABULKA&skupId=5173&katalog=30848&pvo=VZD16a&c=v3~15__RP2024" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-msmt-data">
+              Ministry of Education, Youth and Sports. (n.d.). <i>Gender issues of employees in education</i>. <a href="https://msmt.gov.cz/vzdelavani/skolstvi-v-cr/statistika-skolstvi/genderova-problematika-zamestnancu-ve-skolstvi" target="_blank">URL</a>
+            </div>
+
+            <h3>Literature</h3>
+            <div class="source-item" id="ref-csu-2023">
+              Czech Statistical Office. (2023). <i>Teacher salaries in regional education</i>. <a href="https://csu.gov.cz/docs/107508/c2b130a8-8c1f-b1f1-66af-6a36ca9b4043/23006924_cela.pdf" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-msmt-statis">
+              Ministry of Education, Youth and Sports. (n.d.). <i>Statistical Yearbook of Education</i>. <a href="https://statis.msmt.cz/rocenka/rocenka.asp" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-msmt-2025">
+              Ministry of Education, Youth and Sports. (2025). <i>Extraordinary survey on teacher supply: analysis of teacher age structure</i>. <a href="https://edu.gov.cz/wp-content/uploads/2026/01/Ucitele-2025_Analyza-veku-ucitelu-v-RgS-1.pdf" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-nusrat">
+              Nusrat, S., Alam, M. J., & Kobourov, S. (2016). Evaluating cartogram effectiveness. <i>IEEE Transactions on Visualization and Computer Graphics</i>, 24 (2), 1077-1090. <a href="https://doi.org/10.48550/arXiv.1504.02218" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-okabe">
+              Okabe, M., & Ito, K. (2008). <i>Color Universal Design (CUD)</i>. <a href="https://jfly.uni-koeln.de/color/" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-sibrel">
+              Sibrel, S. C., et al. (2020). Interpreting colormap data visualizations. <i>Journal of vision</i>, 20 (12), 7. <a href="https://doi.org/10.1167/jov.20.12.7" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-valdez">
+              Valdez, A. C., Ziefle, M., & Sedlmair, M. (2017). A framework for studying biases in visualization research. <a href="https://eprints.cs.univie.ac.at/5258/1/calero-valdez2017framework.pdf" target="_blank">URL</a>
+            </div>
+            <div class="source-item" id="ref-vischeck">
+              Vischeck. (n.d.). <i>Online color blindness simulator</i>. <a href="https://www.vischeck.com/run.html" target="_blank">URL</a>
+            </div>
+          </div>
+        </div>
+      </main>
+
+      <footer class="site-footer">
+        <ul>
+          <li>&copy; Ondrej Hoberla (2026)</li>
+        </ul>
+        <div class="social-icons">
+          <a href="https://link.hoberla.eu/linkedin/" target="_blank" aria-label="LinkedIn Profile"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg></a>
+          <a href="https://link.hoberla.eu/github/" target="_blank" aria-label="GitHub Profile"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg></a>
+          <a href="https://link.hoberla.eu/bluesky/" target="_blank" aria-label="Bluesky Profile"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 226"><path d="M55.491 15.172c29.35 22.035 60.917 66.712 72.509 90.686c11.592-23.974 43.159-68.651 72.509-90.686C221.686-.727 256-13.028 256 26.116c0 7.818-4.482 65.674-7.111 75.068c-9.138 32.654-42.436 40.983-72.057 35.942c51.775 8.812 64.946 38 36.501 67.187c-54.021 55.433-77.644-13.908-83.696-31.676c-1.11-3.257-1.63-4.78-1.637-3.485c-.008-1.296-.527.228-1.637 3.485c-6.052 17.768-29.675 87.11-83.696 31.676c-28.445-29.187-15.274-58.375 36.5-67.187c-29.62 5.041-62.918-3.288-72.056-35.942C4.482 91.79 0 33.934 0 26.116C0-13.028 34.314-.727 55.491 15.172"/></svg></a>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    <script src="custom-scripts.js"></script>
+  </body>
+</html>

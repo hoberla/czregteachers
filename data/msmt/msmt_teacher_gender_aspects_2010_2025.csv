@@ -1,0 +1,901 @@
+﻿year,school_type,school_cluster_code,school_type_en,cznuts_cz,cznuts3,cznuts_en,men_percent,salary_women,salary_men,salary_total,salary_proportion_m_w,paygap_w_m
+2010,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.21,"23,339.29","25,009.97","23,695.08",0.93,"-1,670.68"
+2010,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.14,"24,043.68","24,100.24","24,051.37",1,-56.56
+2010,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"18,893.43","16,659.69","18,888.61",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.36,"25,894.01","26,506.26","26,111.66",0.98,-612.25
+2010,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"23,951.79","26,142.07","24,397.11",0.92,"-2,190.28"
+2010,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.12,"23,978.09","23,485.05","23,916.80",1.02,493.03
+2010,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0,"18,831.86",,"18,821.46",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.33,"27,445.61","27,542.14","27,477.54",1,-96.53
+2010,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.19,"23,602.10","25,127.34","23,887.17",0.94,"-1,525.24"
+2010,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.11,"24,605.38","24,522.52","24,595.89",1,82.86
+2010,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"19,068.65",,"19,065.82",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.34,"25,899.57","26,487.88","26,101.86",0.98,-588.31
+2010,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.24,"23,352.72","25,076.56","23,763.98",0.93,"-1,723.84"
+2010,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.15,"24,156.17","24,643.37","24,228.29",0.98,-487.21
+2010,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"19,561.04",,"19,559.05",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.37,"25,432.25","26,607.38","25,867.96",0.96,"-1,175.13"
+2010,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.21,"23,480.39","24,854.24","23,763.98",0.94,"-1,373.85"
+2010,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.12,"24,381.90","24,380.82","24,381.76",1,1.08
+2010,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"19,009.89",,"19,016.33",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.34,"25,892.59","26,111.98","25,968.08",0.99,-219.39
+2010,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.23,"23,550.15","25,239.17","23,940.16",0.93,"-1,689.03"
+2010,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"23,648.34","23,332.05","23,602.22",1.01,316.29
+2010,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"18,883.54",,"18,883.54",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.35,"26,162.82","27,145.90","26,508.16",0.96,-983.08
+2010,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.22,"23,931.16","25,226.61","24,213.22",0.95,"-1,295.46"
+2010,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.12,"24,286.59","23,983.79","24,248.78",1.01,302.8
+2010,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"19,147.48",,"19,143.93",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.36,"26,414.78","26,834.49","26,566.77",0.98,-419.71
+2010,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.23,"23,486.05","25,146.47","23,870.65",0.93,"-1,660.43"
+2010,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.14,"24,239.54","24,301.31","24,248.03",1,-61.76
+2010,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"19,384.12",,"19,384.12",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.4,"25,360.13","26,149.36","25,672.53",0.97,-789.23
+2010,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.23,"22,984.40","24,575.37","23,355.53",0.94,"-1,590.98"
+2010,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"23,658.64","23,895.55","23,694.06",0.99,-236.92
+2010,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"18,519.37",,"18,511.15",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.4,"25,773.43","26,291.39","25,981.13",0.98,-517.96
+2010,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.23,"22,882.36","24,743.40","23,309.88",0.92,"-1,861.03"
+2010,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.15,"23,623.07","24,017.04","23,681.88",0.98,-393.97
+2010,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0,"18,620.25",,"18,611.54",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.37,"25,403.02","25,915.20","25,590.11",0.98,-512.18
+2010,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.23,"22,950.32","24,863.47","23,394.70",0.92,"-1,913.15"
+2010,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.15,"23,776.07","24,188.57","23,838.23",0.98,-412.5
+2010,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0,"18,770.93",,"18,780.34",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.39,"25,758.58","26,662.36","26,107.06",0.97,-903.78
+2010,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"22,817.89","24,496.69","23,154.53",0.93,"-1,678.80"
+2010,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.15,"23,729.99","24,249.57","23,808.29",0.98,-519.57
+2010,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"18,784.27",,"18,776.14",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.37,"25,105.32","25,712.67","25,327.36",0.98,-607.35
+2010,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.22,"23,220.65","25,071.70","23,621.14",0.93,"-1,851.05"
+2010,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"23,843.70","23,871.83","23,847.67",1,-28.13
+2010,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"18,845.02",,"18,837.73",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.35,"25,722.85","26,679.92","26,059.56",0.96,-957.07
+2010,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.23,"22,746.54","24,673.30","23,195.62",0.92,"-1,926.76"
+2010,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"23,471.66","24,001.10","23,549.91",0.98,-529.44
+2010,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0,"18,485.57",,"18,478.89",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.39,"25,088.71","26,508.47","25,640.10",0.95,"-1,419.76"
+2010,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.19,"23,352.40","24,717.37","23,618.18",0.94,"-1,364.97"
+2010,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"24,330.19","24,068.01","24,296.39",1.01,262.19
+2010,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0,"18,780.79",,"18,773.00",,
+2010,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.31,"25,519.15","26,052.07","25,686.81",0.98,-532.92
+2011,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.21,"24,413.53","25,977.69","24,736.72",0.94,"-1,564.16"
+2011,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.15,"25,344.95","25,428.87","25,357.60",1,-83.93
+2011,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.17,"25,963.04","25,681.64","25,916.22",1.01,281.4
+2011,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"19,747.22",,"19,742.05",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.36,"27,042.95","27,383.53","27,164.98",0.99,-340.58
+2011,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"25,401.63","27,223.54","25,761.94",0.93,"-1,821.90"
+2011,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"25,567.13","25,504.42","25,559.44",1,62.71
+2011,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.17,"25,412.98","25,703.82","25,462.33",0.99,-290.84
+2011,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0,"19,970.44",,"19,949.73",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.32,"28,693.92","28,602.54","28,664.66",1,91.38
+2011,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.18,"24,397.67","26,008.93","24,683.16",0.94,"-1,611.26"
+2011,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.13,"25,173.78","25,493.38","25,215.14",0.99,-319.59
+2011,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"24,663.36","24,868.27","24,693.78",0.99,-204.91
+2011,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"19,593.15",,"19,587.89",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.35,"26,811.47","27,120.97","26,920.23",0.99,-309.49
+2011,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.23,"24,407.91","25,981.11","24,772.99",0.94,"-1,573.21"
+2011,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"26,277.47","25,945.17","26,232.21",1.01,332.29
+2011,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.15,"25,483.68","25,661.19","25,510.01",0.99,-177.52
+2011,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"20,360.80",,"20,357.52",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.38,"26,457.45","27,397.05","26,812.22",0.97,-939.6
+2011,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.2,"24,091.64","25,727.68","24,411.50",0.94,"-1,636.04"
+2011,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.17,"24,897.42","25,027.35","24,919.02",0.99,-129.93
+2011,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.17,"25,118.91","25,707.51","25,216.10",0.98,-588.61
+2011,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"19,554.86",,"19,559.38",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.35,"26,567.26","27,024.26","26,725.99",0.98,-457
+2011,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.21,"24,381.70","26,217.74","24,766.68",0.93,"-1,836.04"
+2011,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"24,768.11","25,259.17","24,847.77",0.98,-491.06
+2011,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.17,"25,123.09","25,635.92","25,208.27",0.98,-512.83
+2011,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"19,832.45",,"19,825.88",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.35,"27,449.62","28,209.00","27,715.88",0.97,-759.38
+2011,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.22,"25,275.19","26,037.33","25,440.73",0.97,-762.13
+2011,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.15,"25,168.21","25,128.64","25,162.45",1,39.56
+2011,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"24,780.93","25,187.39","24,841.83",0.98,-406.46
+2011,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"19,928.55",,"19,921.66",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.37,"27,822.49","27,432.89","27,677.56",1.01,389.6
+2011,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.23,"24,462.50","26,018.38","24,813.89",0.94,"-1,555.88"
+2011,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.14,"25,335.52","24,929.58","25,277.84",1.02,405.94
+2011,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"20,180.71",,"20,182.59",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.4,"26,521.79","27,050.39","26,735.01",0.98,-528.6
+2011,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.22,"23,849.23","25,483.26","24,204.20",0.94,"-1,634.02"
+2011,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"19,365.77",,"19,362.94",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.39,"26,379.59","26,846.76","26,563.98",0.98,-467.17
+2011,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.23,"24,071.04","25,807.57","24,463.40",0.93,"-1,736.53"
+2011,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0,"19,278.31",,"19,268.29",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.37,"26,712.95","27,112.80","26,860.76",0.99,-399.85
+2011,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.22,"23,769.79","25,519.90","24,161.26",0.93,"-1,750.10"
+2011,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0,"19,645.81",,"19,657.62",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.39,"26,430.60","26,910.84","26,617.33",0.98,-480.24
+2011,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.21,"23,986.57","25,657.87","24,329.31",0.93,"-1,671.30"
+2011,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"19,459.84",,"19,454.94",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.37,"26,561.73","26,902.02","26,688.42",0.99,-340.28
+2011,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.21,"24,347.46","25,995.37","24,693.42",0.94,"-1,647.91"
+2011,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"19,602.63",,"19,596.92",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.35,"26,983.92","27,651.33","27,218.37",0.98,-667.42
+2011,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.22,"23,939.47","25,601.61","24,308.70",0.94,"-1,662.14"
+2011,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0,"19,551.63",,"19,545.30",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.39,"26,314.41","27,073.75","26,609.97",0.97,-759.34
+2011,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.19,"24,429.20","25,845.74","24,697.44",0.95,"-1,416.54"
+2011,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0,"20,027.89",,"20,024.45",,
+2011,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.32,"26,779.26","27,357.54","26,966.53",0.98,-578.28
+2012,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.2,"25,228.03","26,506.47","25,485.13",0.95,"-1,278.44"
+2012,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.15,"25,757.06","25,875.43","25,774.74",1,-118.37
+2012,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"22,176.42",,"22,175.51",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.35,"27,107.06","27,477.55","27,238.21",0.99,-370.49
+2012,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"25,998.48","27,662.86","26,329.53",0.94,"-1,664.38"
+2012,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.16,"25,833.45","25,840.75","25,834.62",1,-7.3
+2012,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0,"22,360.24",,"22,354.65",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.33,"28,903.23","28,808.02","28,871.97",1,95.21
+2012,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.17,"25,474.61","26,577.07","25,664.60",0.96,"-1,102.46"
+2012,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"26,218.49","26,445.11","26,246.73",0.99,-226.62
+2012,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"22,533.38",,"22,527.45",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.35,"27,018.58","27,167.82","27,070.19",0.99,-149.24
+2012,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.23,"25,023.84","26,318.72","25,315.61",0.95,"-1,294.88"
+2012,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.17,"25,568.00","25,931.23","25,628.86",0.99,-363.23
+2012,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"22,728.79",,"22,722.49",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.38,"26,248.82","27,201.35","26,606.92",0.96,-952.53
+2012,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.19,"24,976.12","26,504.54","25,266.70",0.94,"-1,528.43"
+2012,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"25,698.35","25,939.32","25,730.93",0.99,-240.97
+2012,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"21,602.55",,"21,609.51",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.34,"27,065.24","27,531.21","27,224.82",0.98,-465.97
+2012,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.2,"25,384.85","26,681.85","25,645.46",0.95,"-1,297.00"
+2012,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"25,498.56","25,807.55","25,544.92",0.99,-308.99
+2012,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"22,740.55",,"22,725.44",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.34,"27,286.78","27,978.44","27,520.35",0.98,-691.66
+2012,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.2,"25,971.66","26,803.06","26,140.54",0.97,-831.39
+2012,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"26,594.45","26,154.16","26,531.90",1.02,440.3
+2012,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"22,361.21",,"22,354.60",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.36,"27,684.41","28,036.48","27,810.34",0.99,-352.07
+2012,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.22,"25,562.99","26,957.15","25,867.05",0.95,"-1,394.16"
+2012,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.15,"25,822.41","26,063.24","25,858.06",0.99,-240.83
+2012,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"23,213.18",,"23,218.23",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.39,"27,213.29","27,774.25","27,430.64",0.98,-560.96
+2012,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.21,"24,490.99","26,142.15","24,830.51",0.94,"-1,651.16"
+2012,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.16,"25,178.20","25,557.83","25,239.93",0.99,-379.63
+2012,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"21,338.39",,"21,337.43",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.38,"26,491.52","27,179.68","26,755.02",0.97,-688.16
+2012,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.22,"24,939.79","26,185.05","25,212.83",0.95,"-1,245.26"
+2012,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.16,"25,523.79","25,792.52","25,567.71",0.99,-268.73
+2012,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"21,939.25",,"21,937.76",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.37,"26,606.14","27,195.46","26,822.53",0.98,-589.32
+2012,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.22,"24,610.61","26,243.24","24,967.12",0.94,"-1,632.64"
+2012,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"25,268.07","25,829.67","25,357.78",0.98,-561.6
+2012,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"21,649.65",,"21,707.32",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.38,"26,616.51","27,308.99","26,882.61",0.97,-692.48
+2012,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.21,"24,942.96","26,250.32","25,217.59",0.95,"-1,307.36"
+2012,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.17,"25,488.47","25,866.68","25,552.48",0.99,-378.21
+2012,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"22,078.82",,"22,074.58",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.37,"27,025.18","27,222.73","27,099.02",0.99,-197.55
+2012,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.2,"24,910.56","26,414.62","25,213.85",0.94,"-1,504.06"
+2012,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"25,568.29","25,269.24","25,525.92",1.01,299.04
+2012,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"21,303.92",,"21,298.67",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.34,"26,790.31","27,499.81","27,032.56",0.97,-709.5
+2012,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.22,"24,675.65","25,875.19","24,933.76",0.95,"-1,199.53"
+2012,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"25,138.32","25,468.97","25,187.84",0.99,-330.64
+2012,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0,"22,150.90",,"22,148.53",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.38,"26,010.06","26,783.00","26,304.54",0.97,-772.94
+2012,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.18,"25,283.27","26,149.78","25,439.95",0.97,-866.51
+2012,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"26,064.62","25,916.59","26,044.83",1.01,148.02
+2012,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0,"22,399.78",,"22,393.66",,
+2012,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.32,"26,571.49","26,727.04","26,621.29",0.99,-155.56
+2013,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.2,"25,368.68","26,606.04","25,611.10",0.95,"-1,237.36"
+2013,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.15,"26,020.64","26,102.22","26,032.59",1,-81.58
+2013,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"22,364.71",,"22,361.49",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.35,"27,162.92","27,530.75","27,291.79",0.99,-367.82
+2013,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"26,055.40","27,730.80","26,386.26",0.94,"-1,675.40"
+2013,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.16,"26,037.84","25,938.11","26,021.90",1,99.73
+2013,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0,"22,429.22",,"22,420.02",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.33,"28,900.40","28,959.64","28,919.72",1,-59.24
+2013,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"25,724.26","26,741.09","25,882.93",0.96,"-1,016.83"
+2013,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"26,791.27","26,646.05","26,773.45",1.01,145.21
+2013,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"22,702.70",,"22,699.46",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.34,"27,065.27","27,223.36","27,118.81",0.99,-158.09
+2013,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.22,"25,269.94","26,498.56","25,540.12",0.95,"-1,228.63"
+2013,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.16,"25,920.22","26,416.40","26,001.68",0.98,-496.18
+2013,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"23,086.81",,"23,085.70",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.37,"26,319.93","27,180.74","26,641.79",0.97,-860.81
+2013,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.19,"25,375.55","26,541.94","25,592.13",0.96,"-1,166.39"
+2013,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"26,089.49","26,099.98","26,090.91",1,-10.49
+2013,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"22,165.96",,"22,171.93",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.33,"27,369.26","27,671.79","27,470.17",0.99,-302.53
+2013,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"25,099.80","25,779.52","25,229.72",0.97,-679.72
+2013,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"25,781.25","25,628.11","25,759.01",1.01,153.14
+2013,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"22,384.43",,"22,384.43",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.34,"26,212.64","26,420.42","26,282.94",0.99,-207.79
+2013,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.2,"25,914.11","26,752.69","26,084.04",0.97,-838.58
+2013,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"26,665.47","26,456.16","26,636.38",1.01,209.3
+2013,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"22,502.74",,"22,496.17",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.35,"27,282.81","27,695.47","27,428.59",0.99,-412.65
+2013,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.21,"25,674.01","27,175.53","25,982.43",0.94,"-1,501.53"
+2013,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.14,"26,073.40","26,123.14","26,080.31",1,-49.74
+2013,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"23,178.75",,"23,168.29",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.37,"27,593.88","28,454.88","27,913.95",0.97,-861
+2013,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.21,"24,649.31","25,838.00","24,902.25",0.95,"-1,188.68"
+2013,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.16,"25,421.06","25,708.56","25,467.96",0.99,-287.49
+2013,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"21,673.35",,"21,673.58",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.38,"26,159.66","26,523.27","26,299.61",0.99,-363.6
+2013,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.21,"25,015.75","26,261.85","25,273.07",0.95,"-1,246.10"
+2013,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.15,"25,616.35","26,148.26","25,698.54",0.98,-531.91
+2013,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"22,173.66",,"22,174.43",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.35,"26,617.48","27,030.45","26,762.58",0.98,-412.97
+2013,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.21,"24,858.83","26,348.25","25,178.92",0.94,"-1,489.41"
+2013,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"25,618.59","26,104.62","25,694.56",0.98,-486.03
+2013,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"22,026.75",,"22,034.35",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.38,"26,678.01","27,287.87","26,912.48",0.98,-609.85
+2013,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.21,"25,187.88","26,596.93","25,480.74",0.95,"-1,409.05"
+2013,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"25,735.16","26,088.10","25,793.13",0.99,-352.94
+2013,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"22,252.39",,"22,249.43",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.38,"27,412.53","27,518.44","27,452.47",1,-105.9
+2013,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.2,"25,109.37","26,769.90","25,441.06",0.94,"-1,660.53"
+2013,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"25,816.05","25,677.70","25,796.56",1.01,138.35
+2013,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"21,368.09",,"21,364.53",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.34,"27,100.31","28,002.40","27,404.62",0.97,-902.09
+2013,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.21,"24,542.06","25,843.86","24,809.88",0.95,"-1,301.79"
+2013,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"25,207.41","25,682.81","25,275.21",0.98,-475.4
+2013,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"21,977.76",,"21,975.86",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.38,"25,757.72","26,615.64","26,083.79",0.97,-857.91
+2013,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.18,"25,443.34","26,368.98","25,605.36",0.96,-925.64
+2013,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"26,251.79","26,122.39","26,234.47",1,129.39
+2013,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0,"22,692.37",,"22,686.78",,
+2013,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.31,"26,790.22","27,111.41","26,890.52",0.99,-321.19
+2014,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.19,"25,821.41","27,104.14","26,066.86",0.95,"-1,282.73"
+2014,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.14,"26,538.69","26,556.93","26,541.30",1,-18.24
+2014,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"22,755.08",,"22,757.09",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.35,"27,670.31","28,070.44","27,810.23",0.99,-400.13
+2014,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.19,"26,618.35","28,291.66","26,939.62",0.94,"-1,673.31"
+2014,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.14,"26,885.11","26,821.70","26,875.92",1,63.41
+2014,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"23,002.43",,"23,037.79",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.34,"29,303.47","29,053.43","29,219.30",1.01,250.05
+2014,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"26,152.55","27,511.33","26,363.61",0.95,"-1,358.78"
+2014,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"27,173.27","27,095.44","27,163.81",1,77.83
+2014,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"23,017.15",,"23,013.31",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.32,"28,032.61","28,715.88","28,250.12",0.98,-683.27
+2014,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.22,"25,695.15","26,816.08","25,936.39",0.96,"-1,120.93"
+2014,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.16,"26,499.90","26,867.28","26,558.41",0.99,-367.38
+2014,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"23,337.05",,"23,334.16",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.37,"26,598.38","27,426.18","26,905.62",0.97,-827.79
+2014,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.18,"25,829.77","27,026.15","26,045.96",0.96,"-1,196.38"
+2014,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.13,"26,550.25","26,451.44","26,537.26",1,98.81
+2014,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"22,569.63",,"22,573.46",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.33,"27,912.27","28,209.07","28,010.27",0.99,-296.8
+2014,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"25,587.81","26,779.16","25,811.99",0.96,"-1,191.35"
+2014,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.14,"26,076.81","26,043.12","26,071.96",1,33.69
+2014,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"22,699.39",,"22,699.39",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.33,"27,268.97","27,863.12","27,465.32",0.98,-594.15
+2014,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.2,"26,380.74","27,201.62","26,546.16",0.97,-820.88
+2014,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.15,"27,150.78","26,904.44","27,114.70",1.01,246.34
+2014,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"23,118.26",,"23,114.93",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.35,"27,700.00","28,179.69","27,868.20",0.98,-479.69
+2014,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.2,"26,075.60","27,670.26","26,390.39",0.94,"-1,594.66"
+2014,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"26,423.22","26,569.05","26,442.39",0.99,-145.83
+2014,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"23,427.70",,"23,423.66",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.37,"28,245.38","29,118.58","28,564.53",0.97,-873.21
+2014,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.21,"25,132.22","26,103.72","25,335.11",0.96,-971.5
+2014,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.16,"25,959.04","25,844.08","25,940.45",1,114.95
+2014,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"22,109.97",,"22,108.15",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.39,"26,650.84","26,746.31","26,688.23",1,-95.46
+2014,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.21,"25,620.84","26,931.98","25,890.79",0.95,"-1,311.14"
+2014,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.15,"26,341.04","26,598.92","26,379.91",0.99,-257.87
+2014,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"22,661.26",,"22,661.28",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.36,"27,329.31","27,819.90","27,506.38",0.98,-490.59
+2014,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.21,"25,266.32","26,633.92","25,550.60",0.95,"-1,367.61"
+2014,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"26,131.20","26,590.55","26,206.95",0.98,-459.34
+2014,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"22,394.91",,"22,408.26",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.38,"27,123.80","27,541.41","27,280.53",0.98,-417.61
+2014,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"25,504.59","27,142.99","25,826.95",0.94,"-1,638.40"
+2014,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"26,161.17","26,505.65","26,214.88",0.99,-344.48
+2014,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"22,493.96",,"22,491.17",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.38,"27,648.36","28,258.67","27,878.47",0.98,-610.31
+2014,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.19,"25,519.76","27,139.27","25,833.82",0.94,"-1,619.51"
+2014,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"26,313.36","26,145.55","26,290.49",1.01,167.81
+2014,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"21,868.12",,"21,860.53",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.34,"27,425.62","28,070.88","27,648.23",0.98,-645.26
+2014,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.2,"25,102.88","26,499.84","25,387.37",0.95,"-1,396.96"
+2014,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"25,726.91","25,850.77","25,744.45",1,-123.86
+2014,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"22,328.74",,"22,327.41",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.38,"26,735.54","27,443.90","27,005.84",0.97,-708.36
+2014,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"25,831.54","26,696.14","25,980.40",0.97,-864.61
+2014,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"26,731.29","26,543.59","26,706.44",1.01,187.71
+2014,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0,"23,015.44",,"23,009.70",,
+2014,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.31,"27,081.70","27,521.84","27,218.81",0.98,-440.14
+2015,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.19,"25,821.41","27,104.14","26,066.86",0.95,"-1,282.73"
+2015,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.14,"26,538.69","26,556.93","26,541.30",1,-18.24
+2015,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"22,755.08",,"22,757.09",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.35,"27,670.31","28,070.44","27,810.23",0.99,-400.13
+2015,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.19,"26,618.35","28,291.66","26,939.62",0.94,"-1,673.31"
+2015,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.14,"26,885.11","26,821.70","26,875.92",1,63.41
+2015,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"23,002.43",,"23,037.79",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.34,"29,303.47","29,053.43","29,219.30",1.01,250.05
+2015,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"26,152.55","27,511.33","26,363.61",0.95,"-1,358.78"
+2015,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"27,173.27","27,095.44","27,163.81",1,77.83
+2015,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"23,017.15",,"23,013.31",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.32,"28,032.61","28,715.88","28,250.12",0.98,-683.27
+2015,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.22,"25,695.15","26,816.08","25,936.39",0.96,"-1,120.93"
+2015,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.16,"26,499.90","26,867.28","26,558.41",0.99,-367.38
+2015,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"23,337.05",,"23,334.16",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.37,"26,598.38","27,426.18","26,905.62",0.97,-827.79
+2015,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.18,"25,829.77","27,026.15","26,045.96",0.96,"-1,196.38"
+2015,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.13,"26,550.25","26,451.44","26,537.26",1,98.81
+2015,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"22,569.63",,"22,573.46",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.33,"27,912.27","28,209.07","28,010.27",0.99,-296.8
+2015,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"25,587.81","26,779.16","25,811.99",0.96,"-1,191.35"
+2015,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.14,"26,076.81","26,043.12","26,071.96",1,33.69
+2015,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"22,699.39",,"22,699.39",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.33,"27,268.97","27,863.12","27,465.32",0.98,-594.15
+2015,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.2,"26,380.74","27,201.62","26,546.16",0.97,-820.88
+2015,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.15,"27,150.78","26,904.44","27,114.70",1.01,246.34
+2015,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"23,118.26",,"23,114.93",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.35,"27,700.00","28,179.69","27,868.20",0.98,-479.69
+2015,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.2,"26,075.60","27,670.26","26,390.39",0.94,"-1,594.66"
+2015,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"26,423.22","26,569.05","26,442.39",0.99,-145.83
+2015,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"23,427.70",,"23,423.66",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.37,"28,245.38","29,118.58","28,564.53",0.97,-873.21
+2015,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.21,"25,132.22","26,103.72","25,335.11",0.96,-971.5
+2015,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.16,"25,959.04","25,844.08","25,940.45",1,114.95
+2015,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"22,109.97",,"22,108.15",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.39,"26,650.84","26,746.31","26,688.23",1,-95.46
+2015,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.21,"25,620.84","26,931.98","25,890.79",0.95,"-1,311.14"
+2015,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.15,"26,341.04","26,598.92","26,379.91",0.99,-257.87
+2015,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"22,661.26",,"22,661.28",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.36,"27,329.31","27,819.90","27,506.38",0.98,-490.59
+2015,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.21,"25,266.32","26,633.92","25,550.60",0.95,"-1,367.61"
+2015,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"26,131.20","26,590.55","26,206.95",0.98,-459.34
+2015,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"22,394.91",,"22,408.26",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.38,"27,123.80","27,541.41","27,280.53",0.98,-417.61
+2015,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"25,504.59","27,142.99","25,826.95",0.94,"-1,638.40"
+2015,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"26,161.17","26,505.65","26,214.88",0.99,-344.48
+2015,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"22,493.96",,"22,491.17",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.38,"27,648.36","28,258.67","27,878.47",0.98,-610.31
+2015,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.19,"25,519.76","27,139.27","25,833.82",0.94,"-1,619.51"
+2015,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"26,313.36","26,145.55","26,290.49",1.01,167.81
+2015,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"21,868.12",,"21,860.53",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.34,"27,425.62","28,070.88","27,648.23",0.98,-645.26
+2015,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.2,"25,102.88","26,499.84","25,387.37",0.95,"-1,396.96"
+2015,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"25,726.91","25,850.77","25,744.45",1,-123.86
+2015,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"22,328.74",,"22,327.41",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.38,"26,735.54","27,443.90","27,005.84",0.97,-708.36
+2015,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"25,831.54","26,696.14","25,980.40",0.97,-864.61
+2015,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"26,731.29","26,543.59","26,706.44",1.01,187.71
+2015,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0,"23,015.44",,"23,009.70",,
+2015,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.31,"27,081.70","27,521.84","27,218.81",0.98,-440.14
+2016,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.19,"28,070.00","29,410.00","28,318.00",0.95,"-1,340.00"
+2016,ZS,ZS_SEN_1,Basic School,Česká republika,CZ0,Czech Republic,0.14,"29,092.00","29,048.00","29,086.00",1,44
+2016,MS,MS,Nursery School,Česká republika,CZ0,Czech Republic,0,"24,375.00",,"24,387.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.35,"30,069.00","30,463.00","30,206.00",0.99,-394
+2016,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.19,"29,183.00","30,890.00","29,513.00",0.94,"-1,707.00"
+2016,ZS,ZS_SEN_1,Basic School,Hlavní město Praha,CZ010,Prague,0.15,"29,724.00","29,370.00","29,672.00",1.01,354
+2016,MS,MS,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"25,123.00",,"25,230.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.34,"32,028.00","31,676.00","31,907.00",1.01,352
+2016,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.15,"28,530.00","29,942.00","28,748.00",0.95,"-1,412.00"
+2016,ZS,ZS_SEN_1,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"29,969.00","29,940.00","29,965.00",1,29
+2016,MS,MS,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"24,540.00",,"24,540.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.32,"30,222.00","30,863.00","30,429.00",0.98,-641
+2016,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.2,"27,754.00","28,766.00","27,961.00",0.96,"-1,012.00"
+2016,ZS,ZS_SEN_1,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.15,"28,736.00","28,836.00","28,751.00",1,-100
+2016,MS,MS,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"24,955.00",,"24,952.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.37,"28,961.00","29,800.00","29,267.00",0.97,-839
+2016,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.17,"27,997.00","29,126.00","28,193.00",0.96,"-1,129.00"
+2016,ZS,ZS_SEN_1,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.13,"29,176.00","29,025.00","29,158.00",1.01,151
+2016,MS,MS,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0,"24,095.00",,"24,090.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.32,"29,651.00","29,978.00","29,756.00",0.99,-327
+2016,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.18,"27,903.00","29,182.00","28,134.00",0.96,"-1,279.00"
+2016,ZS,ZS_SEN_1,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.14,"28,599.00","28,529.00","28,589.00",1,70
+2016,MS,MS,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"23,832.00",,"23,827.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.32,"30,198.00","30,561.00","30,315.00",0.99,-363
+2016,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.19,"28,598.00","29,165.00","28,705.00",0.98,-567
+2016,ZS,ZS_SEN_1,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.13,"29,580.00","29,302.00","29,543.00",1.01,278
+2016,MS,MS,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"25,171.00",,"25,167.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.35,"29,848.00","30,021.00","29,909.00",0.99,-173
+2016,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.18,"28,291.00","29,714.00","28,544.00",0.95,"-1,423.00"
+2016,ZS,ZS_SEN_1,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"29,252.00","28,751.00","29,188.00",1.02,501
+2016,MS,MS,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"24,683.00",,"24,682.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.37,"30,867.00","31,383.00","31,059.00",0.98,-516
+2016,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.2,"27,400.00","29,068.00","27,732.00",0.94,"-1,668.00"
+2016,ZS,ZS_SEN_1,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"28,579.00","28,477.00","28,564.00",1,102
+2016,MS,MS,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"23,758.00",,"23,757.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.39,"29,267.00","30,119.00","29,600.00",0.97,-852
+2016,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.2,"27,871.00","29,405.00","28,176.00",0.95,"-1,534.00"
+2016,ZS,ZS_SEN_1,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.14,"28,885.00","29,406.00","28,960.00",0.98,-521
+2016,MS,MS,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"24,037.00",,"24,036.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.35,"29,886.00","30,453.00","30,087.00",0.98,-567
+2016,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.2,"27,324.00","28,909.00","27,645.00",0.95,"-1,585.00"
+2016,ZS,ZS_SEN_1,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"28,511.00","29,015.00","28,593.00",0.98,-504
+2016,MS,MS,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"23,861.00",,"23,901.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.37,"29,315.00","29,954.00","29,553.00",0.98,-639
+2016,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.19,"27,737.00","29,294.00","28,034.00",0.95,"-1,557.00"
+2016,ZS,ZS_SEN_1,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.15,"28,630.00","28,905.00","28,672.00",0.99,-275
+2016,MS,MS,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"24,227.00",,"24,224.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.37,"30,005.00","30,452.00","30,170.00",0.99,-447
+2016,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.19,"27,739.00","29,397.00","28,055.00",0.94,"-1,658.00"
+2016,ZS,ZS_SEN_1,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"28,680.00","28,587.00","28,667.00",1,93
+2016,MS,MS,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0,"23,765.00",,"23,754.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.34,"29,502.00","30,619.00","29,881.00",0.96,"-1,117.00"
+2016,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.2,"27,030.00","28,516.00","27,327.00",0.95,"-1,486.00"
+2016,ZS,ZS_SEN_1,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"28,036.00","28,196.00","28,059.00",0.99,-160
+2016,MS,MS,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"23,514.00",,"23,519.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.38,"28,956.00","29,390.00","29,122.00",0.99,-434
+2016,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"27,990.00","29,020.00","28,163.00",0.96,"-1,030.00"
+2016,ZS,ZS_SEN_1,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"29,175.00","29,054.00","29,159.00",1,121
+2016,MS,MS,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"24,331.00",,"24,328.00",,
+2016,SS,SS_VOS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.31,"29,699.00","29,992.00","29,790.00",0.99,-293
+2017,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.19,"30,215.10","31,410.99","30,447.38",0.96,"-1,195.89"
+2017,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.14,"31,571.56","31,513.51","31,563.53",1,58.05
+2017,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"26,223.58","27,780.59","26,231.82",0.94,"-1,557.01"
+2017,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.4,"31,845.45","31,620.31","31,755.25",1.01,225.15
+2017,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"31,610.36","33,337.86","31,952.79",0.95,"-1,727.50"
+2017,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.14,"32,232.35","31,900.08","32,184.55",1.01,332.27
+2017,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"27,269.06","33,428.05","27,333.22",0.82,"-6,158.99"
+2017,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.37,"34,694.13","34,367.63","34,574.09",1.01,326.49
+2017,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.17,"30,639.93","31,714.97","30,821.64",0.97,"-1,075.04"
+2017,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"32,461.21","32,523.05","32,468.79",1,-61.84
+2017,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"26,449.75","25,491.49","26,446.31",1.04,958.26
+2017,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.38,"31,519.94","31,550.60","31,531.57",1,-30.66
+2017,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.21,"29,736.78","30,725.11","29,943.46",0.97,-988.33
+2017,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.14,"31,038.12","30,837.93","31,009.42",1.01,200.19
+2017,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"26,421.81","29,349.35","26,432.56",0.9,"-2,927.55"
+2017,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.42,"30,726.36","30,747.78","30,735.41",1,-21.42
+2017,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.19,"30,059.98","31,070.84","30,249.73",0.97,"-1,010.87"
+2017,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.12,"31,367.09","31,288.37","31,357.33",1,78.72
+2017,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"25,897.68","25,681.57","25,895.99",1.01,216.11
+2017,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.41,"31,875.01","31,061.23","31,537.92",1.03,813.77
+2017,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.21,"30,182.83","31,285.45","30,410.07",0.96,"-1,102.62"
+2017,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"31,487.33","31,167.14","31,440.63",1.01,320.19
+2017,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"25,855.28","26,000.95","25,855.79",0.99,-145.68
+2017,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.39,"31,058.55","31,192.40","31,110.48",1,-133.86
+2017,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.19,"30,762.92","31,175.37","30,841.91",0.99,-412.45
+2017,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"32,107.66","31,615.61","32,040.53",1.02,492.05
+2017,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"27,190.21","24,362.90","27,182.45",1.12,"2,827.31"
+2017,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.4,"31,456.12","31,154.31","31,334.26",1.01,301.81
+2017,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.19,"30,400.27","31,896.71","30,678.05",0.95,"-1,496.45"
+2017,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"31,734.15","31,424.14","31,694.31",1.01,310.01
+2017,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"26,459.88","28,797.34","26,461.62",0.92,"-2,337.46"
+2017,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"32,342.54","32,380.85","32,358.78",1,-38.31
+2017,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.22,"29,640.19","30,981.73","29,929.01",0.96,"-1,341.55"
+2017,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"31,280.28","30,736.74","31,199.51",1.02,543.54
+2017,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"25,670.06","24,331.89","25,664.74",1.05,"1,338.17"
+2017,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"30,668.67","31,286.37","30,934.21",0.98,-617.7
+2017,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.21,"29,749.54","30,983.01","30,005.76",0.96,"-1,233.47"
+2017,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.14,"31,211.12","31,878.58","31,303.36",0.98,-667.46
+2017,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0,"25,378.49","24,416.93","25,373.95",1.04,961.56
+2017,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.41,"31,384.46","30,991.59","31,221.67",1.01,392.86
+2017,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.21,"29,217.11","30,577.04","29,502.59",0.96,"-1,359.93"
+2017,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"30,802.66","31,340.49","30,888.64",0.98,-537.83
+2017,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"25,401.24","29,713.50","25,423.80",0.85,"-4,312.25"
+2017,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.47,"30,333.68","30,154.24","30,248.55",1.01,179.43
+2017,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"29,905.81","31,266.41","30,173.32",0.96,"-1,360.60"
+2017,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.15,"31,187.19","31,454.49","31,227.46",0.99,-267.3
+2017,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"26,172.48","28,736.55","26,181.13",0.91,"-2,564.06"
+2017,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.41,"31,651.96","31,334.43","31,521.56",1.01,317.52
+2017,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.2,"29,971.81","31,507.79","30,279.13",0.95,"-1,535.97"
+2017,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"31,305.86","31,279.64","31,302.23",1,26.22
+2017,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"25,701.50","23,334.41","25,686.93",1.1,"2,367.08"
+2017,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.38,"31,424.17","31,627.69","31,502.00",0.99,-203.52
+2017,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.21,"29,145.60","30,578.97","29,450.63",0.95,"-1,433.37"
+2017,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"30,455.11","30,530.68","30,465.59",1,-75.57
+2017,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"25,182.79","25,844.36","25,187.78",0.97,-661.57
+2017,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"30,793.75","31,166.76","30,955.91",0.99,-373.01
+2017,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.18,"30,085.30","31,039.68","30,252.44",0.97,-954.38
+2017,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.13,"31,605.97","31,668.88","31,614.23",1,-62.91
+2017,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"26,084.99","25,605.18","26,081.83",1.02,479.82
+2017,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.37,"31,321.13","30,813.16","31,134.99",1.02,507.98
+2018,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.19,"33,544.90","34,954.90","33,818.20",0.96,"-1,410.00"
+2018,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.14,"35,002.30","34,869.80","34,983.80",1,132.5
+2018,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0,"29,028.40","29,408.90","29,030.10",0.99,-380.5
+2018,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.4,"35,543.20","35,309.50","35,450.00",1.01,233.7
+2018,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"35,450.50","36,812.70","35,726.80",0.96,"-1,362.20"
+2018,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.15,"36,282.60","35,840.80","36,215.90",1.01,441.8
+2018,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"30,975.50","31,143.30","30,976.70",0.99,-167.8
+2018,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.36,"38,322.20","37,770.30","38,121.40",1.01,551.9
+2018,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.17,"34,110.00","35,706.20","34,376.10",0.96,"-1,596.20"
+2018,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"35,956.20","35,827.00","35,940.30",1,129.2
+2018,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"29,468.90","28,954.60","29,467.20",1.02,514.3
+2018,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.38,"35,801.10","36,039.50","35,892.60",0.99,-238.4
+2018,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.21,"32,806.80","34,172.70","33,090.10",0.96,"-1,365.90"
+2018,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.14,"34,194.90","34,287.70","34,208.30",1,-92.8
+2018,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"28,670.70","26,027.60","28,661.40",1.1,"2,643.10"
+2018,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.42,"34,514.50","34,310.40","34,428.00",1.01,204.1
+2018,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.19,"33,477.10","34,877.80","33,738.30",0.96,"-1,400.70"
+2018,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.13,"35,017.40","34,959.90","35,010.10",1,57.5
+2018,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"28,403.50","29,045.40","28,407.90",0.98,-641.9
+2018,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.41,"35,993.00","35,198.80","35,668.30",1.02,794.2
+2018,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.2,"33,343.00","34,881.80","33,657.80",0.96,"-1,538.80"
+2018,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"34,512.20","34,181.60","34,463.00",1.01,330.6
+2018,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.01,"28,535.20",,"28,514.50",,
+2018,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.39,"35,156.00","35,197.60","35,172.00",1,-41.6
+2018,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.19,"34,043.20","34,724.30","34,171.50",0.98,-681.1
+2018,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"35,527.70","34,874.00","35,438.10",1.02,653.7
+2018,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"29,991.50","29,406.30","29,989.50",1.02,585.2
+2018,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.4,"34,958.30","34,927.00","34,945.70",1,31.3
+2018,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.19,"33,816.10","35,548.80","34,142.00",0.95,"-1,732.70"
+2018,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"35,429.50","34,937.00","35,365.40",1.01,492.5
+2018,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"29,115.40",,"29,110.70",,
+2018,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.43,"35,781.90","36,219.20","35,968.40",0.99,-437.3
+2018,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.21,"32,766.80","34,464.30","33,127.80",0.95,"-1,697.50"
+2018,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"34,481.60","33,970.30","34,405.80",1.02,511.3
+2018,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"28,303.90",,"28,303.90",,
+2018,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"33,810.00","35,084.50","34,361.10",0.96,"-1,274.50"
+2018,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.2,"32,990.00","34,275.80","33,250.00",0.96,"-1,285.80"
+2018,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.13,"34,427.70","35,066.60","34,513.30",0.98,-638.9
+2018,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"28,542.80","27,868.10","28,539.40",1.02,674.7
+2018,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.41,"34,754.40","34,241.40","34,544.90",1.01,513
+2018,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.21,"32,375.50","34,053.60","32,724.40",0.95,"-1,678.10"
+2018,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"34,013.80","34,553.60","34,099.70",0.98,-539.8
+2018,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0,"27,904.00",,"27,920.90",,
+2018,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.47,"34,321.10","33,805.30","34,078.10",1.02,515.8
+2018,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"33,167.00","34,871.90","33,501.70",0.95,"-1,704.90"
+2018,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.15,"34,538.50","34,940.60","34,598.50",0.99,-402.1
+2018,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"28,752.60","33,031.80","28,764.30",0.87,"-4,279.20"
+2018,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.41,"35,441.10","35,051.30","35,281.70",1.01,389.8
+2018,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.2,"33,121.90","34,766.70","33,450.60",0.95,"-1,644.80"
+2018,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"34,554.50","34,383.80","34,530.60",1,170.7
+2018,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"28,397.90","26,457.90","28,386.60",1.07,"1,940.00"
+2018,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.38,"34,794.10","34,895.20","34,832.90",1,-101.1
+2018,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.21,"32,373.60","33,971.90","32,714.40",0.95,"-1,598.30"
+2018,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"33,807.10","33,753.00","33,799.60",1,54.1
+2018,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"27,837.80","26,580.70","27,830.00",1.05,"1,257.10"
+2018,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"34,219.10","34,602.00","34,383.80",0.99,-382.9
+2018,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.18,"33,287.70","34,399.70","33,484.30",0.97,"-1,112.00"
+2018,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.14,"34,935.10","34,628.60","34,893.30",1.01,306.5
+2018,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"28,651.40","31,138.30","28,666.00",0.92,"-2,486.90"
+2018,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.36,"34,975.30","34,390.10","34,762.70",1.02,585.2
+2019,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.18,"39,228.90","40,299.60","39,422.30",0.97,"-1,070.70"
+2019,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.14,"40,475.30","40,352.60","40,457.90",1,122.7
+2019,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"33,335.70","34,920.10","33,343.80",0.95,"-1,584.40"
+2019,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.41,"41,176.70","40,608.60","40,944.10",1.01,568.1
+2019,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"41,984.60","42,785.90","42,141.70",0.98,-801.3
+2019,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.16,"43,233.30","42,664.10","43,141.10",1.01,569.2
+2019,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"35,356.20","33,966.70","35,346.00",1.04,"1,389.50"
+2019,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.37,"44,125.00","43,320.20","43,824.50",1.02,804.8
+2019,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"39,895.30","40,978.80","40,066.80",0.97,"-1,083.50"
+2019,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.12,"41,267.80","40,920.60","41,224.90",1.01,347.2
+2019,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0.01,"33,827.90","42,317.20","33,872.90",0.8,"-8,489.30"
+2019,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.42,"42,288.00","41,337.40","41,888.00",1.02,950.6
+2019,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.19,"38,624.20","39,574.90","38,803.20",0.98,-950.7
+2019,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.14,"39,846.00","39,832.80","39,844.10",1,13.2
+2019,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"33,315.60",,"33,312.80",,
+2019,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.43,"39,814.10","39,449.20","39,656.50",1.01,364.9
+2019,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.18,"39,378.80","39,849.40","39,462.00",0.99,-470.6
+2019,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.13,"40,793.00","40,278.50","40,724.40",1.01,514.5
+2019,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"33,191.80","32,139.10","33,183.30",1.03,"1,052.70"
+2019,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.41,"41,104.40","39,800.20","40,574.20",1.03,"1,304.20"
+2019,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"38,856.70","39,846.10","39,045.90",0.98,-989.4
+2019,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.16,"40,016.00","39,514.50","39,936.40",1.01,501.5
+2019,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.01,"32,830.30",,"32,825.20",,
+2019,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.37,"40,558.70","39,889.70","40,308.60",1.02,669
+2019,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.18,"39,043.20","39,533.50","39,130.20",0.99,-490.3
+2019,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"40,167.70","39,176.10","40,027.80",1.03,991.6
+2019,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"33,579.50","33,434.90","33,578.90",1,144.6
+2019,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.41,"40,429.50","40,370.50","40,405.20",1,59
+2019,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.17,"39,096.50","40,483.40","39,331.90",0.97,"-1,386.90"
+2019,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"40,356.80","39,886.20","40,295.50",1.01,470.6
+2019,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"33,100.50",,"33,100.90",,
+2019,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"40,830.20","41,506.80","41,115.80",0.98,-676.6
+2019,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.19,"38,610.80","39,674.00","38,816.90",0.97,"-1,063.20"
+2019,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"39,938.40","39,714.50","39,905.50",1.01,223.9
+2019,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"32,707.00",,"32,711.80",,
+2019,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"39,663.20","39,958.70","39,790.60",0.99,-295.5
+2019,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.18,"38,505.90","39,545.10","38,697.70",0.97,"-1,039.20"
+2019,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.13,"39,730.00","40,320.30","39,807.50",0.99,-590.3
+2019,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"32,897.10","31,851.10","32,887.50",1.03,"1,046.00"
+2019,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.44,"40,475.00","39,322.50","39,971.60",1.03,"1,152.50"
+2019,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.19,"38,330.90","40,077.90","38,666.70",0.96,"-1,747.00"
+2019,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"39,588.90","40,412.10","39,717.70",0.98,-823.2
+2019,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0,"32,386.20",,"32,412.70",,
+2019,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.49,"40,210.80","39,665.30","39,945.80",1.01,545.5
+2019,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.19,"38,475.10","40,113.40","38,779.90",0.96,"-1,638.30"
+2019,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.15,"39,673.80","39,974.40","39,719.10",0.99,-300.6
+2019,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"32,594.50","36,553.90","32,611.50",0.89,"-3,959.40"
+2019,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.43,"41,223.80","40,567.70","40,940.30",1.02,656.1
+2019,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.18,"38,450.00","39,605.50","38,660.50",0.97,"-1,155.50"
+2019,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"39,710.60","39,633.20","39,699.90",1,77.4
+2019,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"32,579.40","32,462.00","32,578.70",1,117.4
+2019,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.39,"40,020.90","39,636.30","39,871.90",1.01,384.6
+2019,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.19,"38,070.10","39,337.80","38,310.60",0.97,"-1,267.70"
+2019,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"39,275.10","39,496.10","39,305.50",0.99,-221
+2019,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"32,438.70","33,152.70","32,443.30",0.98,-714
+2019,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"40,017.60","40,075.90","40,042.70",1,-58.3
+2019,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"38,978.40","39,897.60","39,130.50",0.98,-919.2
+2019,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.14,"40,270.60","40,232.10","40,265.20",1,38.5
+2019,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"33,317.70","34,016.90","33,321.30",0.98,-699.2
+2019,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.36,"40,310.90","39,865.50","40,149.60",1.01,445.4
+2020,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.18,"43,144.20","44,086.30","43,315.00",0.98,-942.1
+2020,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.15,"44,638.00","44,142.40","44,566.00",1.01,495.6
+2020,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"35,532.40","36,887.20","35,539.90",0.96,"-1,354.80"
+2020,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.41,"45,718.50","44,175.10","45,088.50",1.03,"1,543.40"
+2020,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"44,738.30","45,286.30","44,848.30",0.99,-548
+2020,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.17,"45,999.00","44,840.00","45,803.80",1.03,"1,159.00"
+2020,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"36,724.10","36,526.60","36,722.30",1.01,197.5
+2020,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.38,"48,425.70","46,250.60","47,594.50",1.05,"2,175.10"
+2020,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"43,707.80","44,575.20","43,847.30",0.98,-867.4
+2020,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.13,"45,410.20","44,632.20","45,309.70",1.02,778
+2020,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"35,862.80","43,360.00","35,887.70",0.83,"-7,497.20"
+2020,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.42,"46,052.80","44,648.30","45,468.10",1.03,"1,404.50"
+2020,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.19,"42,832.40","43,981.20","43,050.70",0.97,"-1,148.80"
+2020,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.14,"44,411.40","44,444.30","44,416.10",1,-32.9
+2020,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"35,546.10",,"35,543.30",,
+2020,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.43,"44,794.40","43,722.80","44,332.40",1.02,"1,071.60"
+2020,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.18,"43,519.10","44,147.10","43,630.00",0.99,-628
+2020,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"45,104.10","44,358.00","45,002.40",1.02,746.1
+2020,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"35,641.40","36,173.00","35,644.70",0.99,-531.6
+2020,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.4,"45,680.30","43,663.80","44,875.20",1.05,"2,016.50"
+2020,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"43,271.80","44,532.50","43,508.00",0.97,"-1,260.70"
+2020,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.16,"44,726.80","44,525.40","44,694.90",1,201.4
+2020,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.01,"35,322.20",,"35,322.70",,
+2020,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.37,"45,806.80","43,912.30","45,107.40",1.04,"1,894.50"
+2020,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.18,"42,889.40","43,085.60","42,924.60",1,-196.2
+2020,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.14,"44,467.20","43,249.20","44,292.40",1.03,"1,218.00"
+2020,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"34,609.60","36,816.60","34,618.40",0.94,"-2,207.00"
+2020,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.41,"44,890.60","43,132.90","44,163.90",1.04,"1,757.70"
+2020,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.17,"43,188.50","44,006.30","43,327.70",0.98,-817.8
+2020,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.13,"44,921.60","43,739.60","44,763.60",1.03,"1,182.00"
+2020,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"35,241.20",,"35,238.70",,
+2020,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"44,998.40","44,561.80","44,815.60",1.01,436.6
+2020,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.19,"43,051.10","43,948.40","43,222.80",0.98,-897.3
+2020,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"44,526.60","43,801.20","44,419.20",1.02,725.4
+2020,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"35,709.80","36,147.00","35,711.60",0.99,-437.2
+2020,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.42,"45,542.50","44,807.70","45,232.10",1.02,734.8
+2020,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.19,"43,166.30","44,360.30","43,387.40",0.97,"-1,194.00"
+2020,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.13,"44,552.30","45,324.60","44,653.20",0.98,-772.3
+2020,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"35,580.60","35,227.40","35,576.30",1.01,353.2
+2020,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.43,"45,492.60","43,656.60","44,699.50",1.04,"1,836.00"
+2020,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.19,"42,905.70","44,625.20","43,240.00",0.96,"-1,719.50"
+2020,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"44,444.60","44,759.50","44,494.70",0.99,-314.9
+2020,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"35,297.10","36,272.00","35,302.70",0.97,-974.9
+2020,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.49,"45,692.70","44,250.00","44,989.10",1.03,"1,442.70"
+2020,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.18,"42,399.00","43,495.40","42,600.10",0.97,"-1,096.40"
+2020,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"43,928.20","43,804.70","43,909.00",1,123.5
+2020,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0,"35,340.50","40,423.40","35,364.70",0.87,"-5,082.90"
+2020,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.42,"44,515.40","42,965.10","43,861.10",1.04,"1,550.30"
+2020,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.18,"42,557.20","43,597.20","42,742.60",0.98,"-1,040.00"
+2020,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"44,023.40","43,931.70","44,010.60",1,91.7
+2020,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"35,374.60","35,269.70","35,373.90",1,104.9
+2020,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.38,"44,489.30","43,136.50","43,975.80",1.03,"1,352.80"
+2020,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.19,"42,684.50","44,083.20","42,954.90",0.97,"-1,398.70"
+2020,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"44,106.40","43,878.40","44,073.20",1.01,228
+2020,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0,"34,836.10","37,996.20","34,850.70",0.92,"-3,160.10"
+2020,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"45,364.20","44,384.80","44,941.20",1.02,979.4
+2020,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"42,520.10","43,439.80","42,673.50",0.98,-919.7
+2020,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.14,"43,878.00","43,333.60","43,801.80",1.01,544.4
+2020,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"35,293.70","34,799.60","35,290.70",1.01,494.1
+2020,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.37,"45,350.40","43,804.80","44,784.70",1.04,"1,545.60"
+2021,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.18,"46,561.30","47,703.70","46,769.60",0.98,"-1,142.40"
+2021,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.15,"48,240.30","47,750.10","48,167.30",1.01,490.2
+2021,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"37,964.60","39,832.40","37,976.10",0.95,"-1,867.80"
+2021,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.4,"49,556.90","47,936.60","48,908.60",1.03,"1,620.30"
+2021,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.2,"47,933.30","48,708.60","48,092.00",0.98,-775.3
+2021,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.17,"49,418.10","48,472.50","49,253.70",1.02,945.6
+2021,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"38,724.80","39,315.50","38,730.00",0.98,-590.7
+2021,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.38,"51,962.80","49,577.70","51,051.70",1.05,"2,385.10"
+2021,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"47,277.10","48,384.70","47,451.80",0.98,"-1,107.60"
+2021,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.13,"49,193.90","48,437.60","49,095.20",1.02,756.3
+2021,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"38,282.40","44,244.90","38,307.00",0.87,"-5,962.50"
+2021,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.39,"50,016.80","48,846.60","49,563.60",1.02,"1,170.20"
+2021,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.19,"46,081.30","47,512.80","46,354.70",0.97,"-1,431.50"
+2021,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.15,"47,813.50","47,622.70","47,784.60",1,190.8
+2021,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"38,262.50","36,143.10","38,255.30",1.06,"2,119.40"
+2021,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.42,"48,219.00","47,696.50","48,001.80",1.01,522.5
+2021,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.18,"47,042.20","47,656.40","47,152.50",0.99,-614.2
+2021,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"48,895.00","48,091.70","48,781.90",1.02,803.3
+2021,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"38,012.70","37,294.40","38,006.30",1.02,718.3
+2021,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.4,"49,743.10","47,031.30","48,668.70",1.06,"2,711.80"
+2021,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"46,707.10","47,900.00","46,929.50",0.98,"-1,192.90"
+2021,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.16,"48,121.00","47,557.90","48,031.70",1.01,563.1
+2021,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"37,757.50",,"37,768.70",,
+2021,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.37,"50,265.20","47,766.10","49,340.70",1.05,"2,499.10"
+2021,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.18,"46,390.10","46,330.30","46,379.30",1,59.8
+2021,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.15,"48,143.60","46,593.50","47,915.60",1.03,"1,550.10"
+2021,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.01,"37,666.40","39,656.20","37,676.70",0.95,"-1,989.80"
+2021,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.4,"48,330.20","46,326.70","47,519.20",1.04,"2,003.50"
+2021,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.17,"46,721.80","47,997.80","46,942.30",0.97,"-1,276.00"
+2021,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.14,"48,436.70","47,591.50","48,322.30",1.02,845.2
+2021,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"38,219.90",,"38,224.60",,
+2021,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"49,382.20","48,834.90","49,150.10",1.01,547.3
+2021,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.2,"46,416.20","47,642.10","46,658.00",0.97,"-1,225.90"
+2021,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"47,992.90","47,595.40","47,931.30",1.01,397.5
+2021,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"37,947.60","41,529.60","37,963.40",0.91,"-3,582.00"
+2021,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"49,859.60","48,205.10","49,152.30",1.03,"1,654.50"
+2021,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.19,"46,841.90","47,824.10","47,025.70",0.98,-982.2
+2021,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.14,"48,572.90","49,082.00","48,642.70",0.99,-509.1
+2021,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"38,242.70","38,649.70","38,247.50",0.99,-407
+2021,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.42,"49,158.20","47,038.00","48,266.30",1.05,"2,120.20"
+2021,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.2,"46,173.00","48,156.60","46,560.50",0.96,"-1,983.60"
+2021,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"47,926.10","48,416.80","48,005.20",0.99,-490.7
+2021,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"37,413.90","36,634.60","37,409.00",1.02,779.3
+2021,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.48,"49,011.20","47,954.90","48,508.00",1.02,"1,056.30"
+2021,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.18,"45,957.60","47,357.60","46,209.30",0.97,"-1,400.00"
+2021,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"47,664.10","47,608.90","47,655.50",1,55.2
+2021,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0.01,"37,851.20","43,210.00","37,882.50",0.88,"-5,358.80"
+2021,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.4,"48,385.60","47,099.20","47,868.60",1.03,"1,286.40"
+2021,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.18,"45,792.70","47,324.00","46,069.20",0.97,"-1,531.30"
+2021,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"47,372.10","47,261.90","47,356.30",1,110.2
+2021,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"37,596.00","38,983.40","37,606.50",0.96,"-1,387.40"
+2021,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.38,"48,572.40","47,140.20","48,026.50",1.03,"1,432.20"
+2021,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.19,"46,044.10","47,574.50","46,339.40",0.97,"-1,530.40"
+2021,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"47,704.50","47,168.50","47,624.90",1.01,536
+2021,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"36,993.70","41,639.30","37,020.20",0.89,"-4,645.60"
+2021,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.42,"49,541.30","48,411.70","49,062.10",1.02,"1,129.60"
+2021,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"45,891.20","47,189.50","46,111.20",0.97,"-1,298.30"
+2021,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.14,"47,433.60","46,999.30","47,370.80",1.01,434.3
+2021,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"37,728.30","38,541.70","37,733.20",0.98,-813.4
+2021,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.36,"49,297.00","47,727.80","48,730.10",1.03,"1,569.20"
+2022,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.18,"46,764.90","48,372.10","47,060.80",0.97,"-1,607.20"
+2022,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.15,"48,353.60","48,375.80","48,356.90",1,-22.2
+2022,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"38,229.40","40,716.00","38,244.20",0.94,"-2,486.60"
+2022,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.4,"50,115.40","48,727.60","49,557.10",1.03,"1,387.80"
+2022,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.21,"48,791.70","49,979.30","49,038.50",0.98,"-1,187.60"
+2022,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.18,"50,045.30","49,738.20","49,990.80",1.01,307.1
+2022,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"40,100.10","39,277.90","40,091.60",1.02,822.2
+2022,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.38,"53,058.30","50,939.20","52,247.20",1.04,"2,119.10"
+2022,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.16,"47,658.40","49,304.30","47,917.90",0.97,"-1,645.90"
+2022,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.13,"49,585.00","49,282.40","49,545.40",1.01,302.6
+2022,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0,"38,627.10","45,991.60","38,661.90",0.84,"-7,364.50"
+2022,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.38,"50,639.20","50,108.80","50,435.50",1.01,530.4
+2022,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.19,"46,185.50","48,246.30","46,579.90",0.96,"-2,060.80"
+2022,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.15,"47,745.20","48,276.40","47,825.90",0.99,-531.2
+2022,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"38,191.70",,"38,193.10",,
+2022,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.42,"49,178.20","48,616.60","48,943.50",1.01,561.6
+2022,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.18,"47,114.20","47,971.30","47,269.80",0.98,-857.1
+2022,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"48,803.20","48,448.80","48,753.80",1.01,354.4
+2022,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"38,433.90","37,254.30","38,423.10",1.03,"1,179.60"
+2022,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.41,"50,283.80","47,630.80","49,208.50",1.06,"2,653.00"
+2022,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.19,"46,703.40","48,613.80","47,059.60",0.96,"-1,910.40"
+2022,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.16,"47,899.70","47,965.80","47,910.10",1,-66.1
+2022,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.01,"38,092.40",,"38,114.30",,
+2022,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.36,"50,841.30","48,683.70","50,065.70",1.04,"2,157.60"
+2022,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.18,"46,242.80","46,788.50","46,341.50",0.99,-545.7
+2022,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.15,"47,990.30","46,938.20","47,836.70",1.02,"1,052.10"
+2022,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"37,414.50","38,087.60","37,416.70",0.98,-673.1
+2022,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.41,"48,359.40","46,867.00","47,753.80",1.03,"1,492.40"
+2022,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.18,"46,630.80","48,220.00","46,911.00",0.97,"-1,589.20"
+2022,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.14,"48,349.30","47,699.30","48,256.50",1.01,650
+2022,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"38,102.50","35,986.90","38,092.90",1.06,"2,115.60"
+2022,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"49,959.80","49,388.40","49,717.50",1.01,571.4
+2022,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.2,"46,569.30","47,964.20","46,848.80",0.97,"-1,394.90"
+2022,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.16,"48,073.80","47,890.90","48,045.40",1,182.9
+2022,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.01,"38,184.70","38,138.60","38,184.50",1,46.1
+2022,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"50,154.30","48,601.90","49,482.60",1.03,"1,552.40"
+2022,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.19,"47,069.60","48,389.00","47,323.60",0.97,"-1,319.40"
+2022,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.14,"48,801.80","49,420.70","48,890.50",0.99,-618.9
+2022,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"38,065.30","40,038.00","38,081.30",0.95,"-1,972.70"
+2022,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.42,"50,011.00","47,957.50","49,139.90",1.04,"2,053.50"
+2022,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.19,"46,146.60","48,794.80","46,652.10",0.95,"-2,648.20"
+2022,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.16,"47,909.90","49,038.70","48,087.60",0.98,"-1,128.80"
+2022,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"37,227.10","39,836.70","37,240.50",0.93,"-2,609.60"
+2022,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.48,"49,414.90","48,584.40","49,019.20",1.02,830.5
+2022,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.18,"46,111.20","47,867.10","46,432.70",0.96,"-1,755.90"
+2022,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.15,"47,690.90","48,119.40","47,757.30",0.99,-428.5
+2022,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0.01,"38,170.40","47,116.70","38,217.60",0.81,"-8,946.30"
+2022,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.41,"48,703.70","47,465.70","48,198.90",1.03,"1,238.00"
+2022,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.19,"46,076.30","47,489.50","46,339.10",0.97,"-1,413.20"
+2022,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.15,"47,582.10","47,454.90","47,563.50",1,127.2
+2022,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"37,699.20","40,342.30","37,717.40",0.93,"-2,643.10"
+2022,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.39,"48,952.90","47,235.30","48,285.30",1.04,"1,717.60"
+2022,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.19,"45,997.60","48,453.30","46,471.30",0.95,"-2,455.70"
+2022,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"47,587.60","48,038.10","47,654.50",0.99,-450.5
+2022,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"37,199.60","42,818.80","37,227.90",0.87,"-5,619.20"
+2022,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"49,785.40","49,510.90","49,668.70",1.01,274.5
+2022,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.17,"45,987.30","47,904.80","46,315.70",0.96,"-1,917.50"
+2022,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.15,"47,416.60","47,670.90","47,453.90",0.99,-254.3
+2022,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"37,873.20","38,859.00","37,879.50",0.97,-985.8
+2022,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.36,"49,818.70","48,704.10","49,414.00",1.02,"1,114.60"
+2023,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.2,"47,677.80","50,046.60","48,150.30",0.95,"-2,368.80"
+2023,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.15,"50,061.80","50,110.40","50,069.10",1,-48.6
+2023,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"39,500.50","41,769.20","39,515.00",0.95,"-2,268.70"
+2023,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.4,"51,836.20","50,317.40","51,225.40",1.03,"1,518.80"
+2023,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.22,"50,132.50","51,910.40","50,518.50",0.97,"-1,777.90"
+2023,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.18,"52,293.30","51,760.40","52,197.90",1.01,532.9
+2023,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"41,221.40","40,245.40","41,213.40",1.02,976
+2023,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.38,"54,915.50","52,727.00","54,089.70",1.04,"2,188.50"
+2023,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.17,"48,473.80","51,200.50","48,946.10",0.95,"-2,726.70"
+2023,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.13,"51,409.40","51,318.00","51,397.40",1,91.4
+2023,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0.01,"39,900.20","48,341.90","39,947.30",0.83,"-8,441.70"
+2023,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.38,"52,359.90","52,037.50","52,237.30",1.01,322.4
+2023,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.21,"46,952.30","49,718.50","47,531.20",0.94,"-2,766.20"
+2023,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.15,"49,189.00","49,765.00","49,275.80",0.99,-576
+2023,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"39,711.20","38,529.40","39,705.90",1.03,"1,181.80"
+2023,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.42,"50,341.20","50,060.50","50,223.70",1.01,280.7
+2023,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.2,"48,113.40","49,832.50","48,459.50",0.97,"-1,719.10"
+2023,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"50,577.60","51,266.60","50,674.80",0.99,-689
+2023,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"39,837.20","39,486.30","39,834.20",1.01,350.9
+2023,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.41,"52,116.80","49,026.50","50,852.90",1.06,"3,090.30"
+2023,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.2,"47,956.20","50,241.80","48,409.80",0.95,"-2,285.60"
+2023,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.16,"49,805.00","49,880.70","49,817.10",1,-75.7
+2023,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0,"39,379.60",,"39,407.50",,
+2023,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.36,"52,337.30","49,685.10","51,383.80",1.05,"2,652.20"
+2023,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.2,"47,078.90","48,576.00","47,373.00",0.97,"-1,497.10"
+2023,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.15,"49,540.50","48,432.00","49,374.10",1.02,"1,108.50"
+2023,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"38,661.20","41,415.40","38,670.30",0.93,"-2,754.20"
+2023,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.4,"50,725.20","48,895.80","49,993.10",1.04,"1,829.40"
+2023,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.19,"47,557.60","50,148.10","48,049.60",0.95,"-2,590.50"
+2023,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.14,"50,254.80","49,575.30","50,158.80",1.01,679.5
+2023,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"39,444.10",,"39,436.30",,
+2023,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"51,410.80","50,988.20","51,231.30",1.01,422.6
+2023,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.22,"47,443.60","49,399.20","47,869.90",0.96,"-1,955.60"
+2023,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.15,"49,573.20","49,419.50","49,549.70",1,153.7
+2023,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.01,"39,465.70","38,986.80","39,463.10",1.01,478.9
+2023,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"51,665.00","49,840.30","50,879.70",1.04,"1,824.70"
+2023,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.21,"47,890.10","49,696.40","48,275.60",0.96,"-1,806.30"
+2023,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.14,"50,436.60","50,874.90","50,497.90",0.99,-438.3
+2023,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"39,562.40","41,407.20","39,580.40",0.96,"-1,844.80"
+2023,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.43,"51,255.60","49,391.70","50,453.90",1.04,"1,863.90"
+2023,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.2,"47,004.80","50,684.00","47,755.50",0.93,"-3,679.20"
+2023,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.15,"49,801.60","51,345.90","50,038.10",0.97,"-1,544.30"
+2023,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0.01,"38,474.00","39,527.20","38,479.30",0.97,"-1,053.20"
+2023,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.48,"51,326.60","50,222.60","50,801.10",1.02,"1,104.00"
+2023,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"47,012.00","49,650.40","47,531.30",0.95,"-2,638.40"
+2023,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"49,440.60","49,690.20","49,480.00",0.99,-249.6
+2023,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0.01,"39,363.30","45,580.00","39,400.20",0.86,"-6,216.70"
+2023,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.41,"50,884.70","49,594.30","50,359.10",1.03,"1,290.40"
+2023,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.2,"46,966.40","49,118.90","47,400.80",0.96,"-2,152.50"
+2023,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.15,"49,181.20","48,903.90","49,140.50",1.01,277.3
+2023,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"39,001.80","40,014.30","39,007.60",0.97,"-1,012.50"
+2023,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.39,"50,565.20","48,843.10","49,887.10",1.04,"1,722.10"
+2023,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.21,"46,778.90","49,666.80","47,396.30",0.94,"-2,887.90"
+2023,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.15,"48,915.20","49,197.20","48,956.80",0.99,-282
+2023,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"38,640.30","42,360.00","38,688.10",0.91,"-3,719.70"
+2023,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"51,457.10","50,302.20","50,964.10",1.02,"1,154.90"
+2023,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.19,"46,743.70","49,400.00","47,235.70",0.95,"-2,656.30"
+2023,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.15,"48,811.80","49,089.10","48,852.70",0.99,-277.3
+2023,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"39,005.60","39,300.30","39,007.40",0.99,-294.7
+2023,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.37,"51,355.90","49,993.40","50,852.40",1.03,"1,362.50"
+2024,Total,ALL,All Schools,Česká republika,CZ0,Czech Republic,0.2,"48,376.70","50,896.50","48,881.20",0.95,"-2,519.80"
+2024,ZS,ZS_SEN_2,Basic School,Česká republika,CZ0,Czech Republic,0.15,"50,584.50","50,678.00","50,598.50",1,-93.5
+2024,MS,PV_MS_PT,Nursery School,Česká republika,CZ0,Czech Republic,0.01,"40,165.20","41,541.30","40,173.60",0.97,"-1,376.10"
+2024,SS,SS_K,Upper-Secondary School,Česká republika,CZ0,Czech Republic,0.4,"52,768.90","51,248.00","52,154.10",1.03,"1,520.90"
+2024,Total,ALL,All Schools,Hlavní město Praha,CZ010,Prague,0.22,"51,384.30","52,976.30","51,739.30",0.97,"-1,592.00"
+2024,ZS,ZS_SEN_2,Basic School,Hlavní město Praha,CZ010,Prague,0.18,"53,408.80","52,665.70","53,275.50",1.01,743.1
+2024,MS,PV_MS_PT,Nursery School,Hlavní město Praha,CZ010,Prague,0.01,"42,672.60","41,458.60","42,663.10",1.03,"1,214.00"
+2024,SS,SS_K,Upper-Secondary School,Hlavní město Praha,CZ010,Prague,0.39,"55,987.20","53,723.80","55,106.80",1.04,"2,263.40"
+2024,Total,ALL,All Schools,Středočeský kraj,CZ020,Central Bohemian Region,0.17,"48,829.90","51,747.70","49,336.40",0.94,"-2,917.80"
+2024,ZS,ZS_SEN_2,Basic School,Středočeský kraj,CZ020,Central Bohemian Region,0.13,"51,538.10","51,144.00","51,485.90",1.01,394.1
+2024,MS,PV_MS_PT,Nursery School,Středočeský kraj,CZ020,Central Bohemian Region,0.01,"40,265.60","47,670.80","40,305.10",0.84,"-7,405.20"
+2024,SS,SS_K,Upper-Secondary School,Středočeský kraj,CZ020,Central Bohemian Region,0.38,"53,396.40","52,978.30","53,235.90",1.01,418.1
+2024,Total,ALL,All Schools,Jihočeský kraj,CZ031,South Bohemian Region,0.21,"47,648.90","50,046.00","48,148.50",0.95,"-2,397.10"
+2024,ZS,ZS_SEN_2,Basic School,Jihočeský kraj,CZ031,South Bohemian Region,0.15,"49,803.80","50,344.00","49,883.50",0.99,-540.2
+2024,MS,PV_MS_PT,Nursery School,Jihočeský kraj,CZ031,South Bohemian Region,0,"40,452.80","36,554.50","40,434.00",1.11,"3,898.30"
+2024,SS,SS_K,Upper-Secondary School,Jihočeský kraj,CZ031,South Bohemian Region,0.42,"50,850.50","50,171.60","50,567.20",1.01,678.9
+2024,Total,ALL,All Schools,Plzeňský kraj,CZ032,Plzeň Region,0.2,"48,794.70","50,724.90","49,187.60",0.96,"-1,930.20"
+2024,ZS,ZS_SEN_2,Basic School,Plzeňský kraj,CZ032,Plzeň Region,0.14,"51,007.80","51,875.40","51,130.80",0.98,-867.6
+2024,MS,PV_MS_PT,Nursery School,Plzeňský kraj,CZ032,Plzeň Region,0.01,"40,518.90","40,568.80","40,519.30",1,-49.9
+2024,SS,SS_K,Upper-Secondary School,Plzeňský kraj,CZ032,Plzeň Region,0.41,"52,999.40","49,707.00","51,645.70",1.07,"3,292.40"
+2024,Total,ALL,All Schools,Karlovarský kraj,CZ041,Karlovy Vary Region,0.2,"48,927.60","51,714.90","49,481.80",0.95,"-2,787.30"
+2024,ZS,ZS_SEN_2,Basic School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.15,"50,416.20","50,625.40","50,448.60",1,-209.2
+2024,MS,PV_MS_PT,Nursery School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.01,"40,269.20",,"40,301.90",,
+2024,SS,SS_K,Upper-Secondary School,Karlovarský kraj,CZ041,Karlovy Vary Region,0.37,"54,245.30","51,730.40","53,319.70",1.05,"2,514.90"
+2024,Total,ALL,All Schools,Ústecký kraj,CZ042,Ústí nad Labem Region,0.2,"47,852.30","49,192.70","48,119.20",0.97,"-1,340.40"
+2024,ZS,ZS_SEN_2,Basic School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.15,"50,308.40","49,280.30","50,154.30",1.02,"1,028.10"
+2024,MS,PV_MS_PT,Nursery School,Ústecký kraj,CZ042,Ústí nad Labem Region,0,"39,319.10",,"39,346.60",,
+2024,SS,SS_K,Upper-Secondary School,Ústecký kraj,CZ042,Ústí nad Labem Region,0.4,"51,148.70","49,277.10","50,401.80",1.04,"1,871.60"
+2024,Total,ALL,All Schools,Liberecký kraj,CZ051,Liberec Region,0.19,"47,878.00","50,835.30","48,442.50",0.94,"-2,957.30"
+2024,ZS,ZS_SEN_2,Basic School,Liberecký kraj,CZ051,Liberec Region,0.14,"50,341.80","50,186.30","50,320.10",1,155.5
+2024,MS,PV_MS_PT,Nursery School,Liberecký kraj,CZ051,Liberec Region,0,"39,747.00","35,087.70","39,724.60",1.13,"4,659.30"
+2024,SS,SS_K,Upper-Secondary School,Liberecký kraj,CZ051,Liberec Region,0.42,"52,006.80","51,735.60","51,893.10",1.01,271.2
+2024,Total,ALL,All Schools,Královéhradecký kraj,CZ052,Hradec Králové Region,0.22,"47,982.90","50,574.50","48,556.30",0.95,"-2,591.60"
+2024,ZS,ZS_SEN_2,Basic School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.16,"49,918.80","50,185.90","49,960.80",0.99,-267.1
+2024,MS,PV_MS_PT,Nursery School,Královéhradecký kraj,CZ052,Hradec Králové Region,0,"39,954.30","40,304.20","39,956.10",0.99,-349.9
+2024,SS,SS_K,Upper-Secondary School,Královéhradecký kraj,CZ052,Hradec Králové Region,0.43,"52,438.00","51,045.00","51,842.00",1.03,"1,393.00"
+2024,Total,ALL,All Schools,Pardubický kraj,CZ053,Pardubice Region,0.21,"48,649.60","50,823.20","49,115.10",0.96,"-2,173.60"
+2024,ZS,ZS_SEN_2,Basic School,Pardubický kraj,CZ053,Pardubice Region,0.14,"50,928.30","51,400.90","50,994.10",0.99,-472.6
+2024,MS,PV_MS_PT,Nursery School,Pardubický kraj,CZ053,Pardubice Region,0.01,"40,301.50","41,155.20","40,310.30",0.98,-853.7
+2024,SS,SS_K,Upper-Secondary School,Pardubický kraj,CZ053,Pardubice Region,0.44,"52,603.90","50,789.20","51,814.40",1.04,"1,814.70"
+2024,Total,ALL,All Schools,Kraj Vysočina,CZ063,Vysočina Region,0.2,"47,527.30","51,033.10","48,237.80",0.93,"-3,505.80"
+2024,ZS,ZS_SEN_2,Basic School,Kraj Vysočina,CZ063,Vysočina Region,0.15,"50,064.60","51,622.70","50,299.50",0.97,"-1,558.10"
+2024,MS,PV_MS_PT,Nursery School,Kraj Vysočina,CZ063,Vysočina Region,0,"39,128.80","42,698.20","39,143.50",0.92,"-3,569.40"
+2024,SS,SS_K,Upper-Secondary School,Kraj Vysočina,CZ063,Vysočina Region,0.47,"51,829.60","50,428.50","51,171.10",1.03,"1,401.10"
+2024,Total,ALL,All Schools,Jihomoravský kraj,CZ064,South Moravian Region,0.2,"47,840.10","50,480.90","48,362.60",0.95,"-2,640.80"
+2024,ZS,ZS_SEN_2,Basic School,Jihomoravský kraj,CZ064,South Moravian Region,0.16,"50,028.60","50,338.40","50,076.70",0.99,-309.8
+2024,MS,PV_MS_PT,Nursery School,Jihomoravský kraj,CZ064,South Moravian Region,0.01,"40,108.30","42,483.60","40,123.60",0.94,"-2,375.30"
+2024,SS,SS_K,Upper-Secondary School,Jihomoravský kraj,CZ064,South Moravian Region,0.41,"51,963.40","50,545.40","51,382.40",1.03,"1,418.00"
+2024,Total,ALL,All Schools,Olomoucký kraj,CZ071,Olomouc Region,0.2,"47,415.60","49,998.00","47,935.60",0.95,"-2,582.40"
+2024,ZS,ZS_SEN_2,Basic School,Olomoucký kraj,CZ071,Olomouc Region,0.14,"49,548.50","49,462.50","49,536.10",1,86
+2024,MS,PV_MS_PT,Nursery School,Olomoucký kraj,CZ071,Olomouc Region,0.01,"39,177.20","38,228.20","39,171.00",1.02,949
+2024,SS,SS_K,Upper-Secondary School,Olomoucký kraj,CZ071,Olomouc Region,0.4,"51,236.60","49,791.90","50,658.00",1.03,"1,444.70"
+2024,Total,ALL,All Schools,Zlínský kraj,CZ072,Zlín Region,0.21,"47,516.10","50,477.20","48,143.30",0.94,"-2,961.10"
+2024,ZS,ZS_SEN_2,Basic School,Zlínský kraj,CZ072,Zlín Region,0.14,"49,455.50","49,672.70","49,486.50",1,-217.2
+2024,MS,PV_MS_PT,Nursery School,Zlínský kraj,CZ072,Zlín Region,0.01,"39,260.20","38,762.20","39,256.00",1.01,498
+2024,SS,SS_K,Upper-Secondary School,Zlínský kraj,CZ072,Zlín Region,0.43,"52,351.10","51,305.00","51,906.40",1.02,"1,046.10"
+2024,Total,ALL,All Schools,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.18,"47,418.30","50,530.80","47,980.90",0.94,"-3,112.50"
+2024,ZS,ZS_SEN_2,Basic School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.14,"49,419.20","49,622.70","49,448.70",1,-203.5
+2024,MS,PV_MS_PT,Nursery School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.01,"39,571.00","40,366.10","39,575.80",0.98,-795.1
+2024,SS,SS_K,Upper-Secondary School,Moravskoslezský kraj,CZ080,Moravian-Silesian Region,0.36,"52,682.30","51,562.40","52,273.70",1.02,"1,119.90"
